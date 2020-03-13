@@ -3,6 +3,60 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.146.0](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.145.3...@patternfly/react-core@3.146.0) (2020-03-10)
+
+
+### Features
+
+* **Modal:** move description to separate component ([#3897](https://github.com/patternfly/patternfly-react/issues/3897)) ([97eb9d8](https://github.com/patternfly/patternfly-react/commit/97eb9d8766febf5dd97424c4c7868f80441b8386))
+
+
+
+
+
+## [3.145.3](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.145.2...@patternfly/react-core@3.145.3) (2020-03-09)
+
+**Note:** Version bump only for package @patternfly/react-core
+
+
+
+
+
+## [3.145.2](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.145.1...@patternfly/react-core@3.145.2) (2020-03-09)
+
+**Note:** Version bump only for package @patternfly/react-core
+
+
+
+
+
+## [3.145.1](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.145.0...@patternfly/react-core@3.145.1) (2020-03-09)
+
+**Note:** Version bump only for package @patternfly/react-core
+
+
+
+
+
+# [3.145.0](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.144.1...@patternfly/react-core@3.145.0) (2020-03-09)
+
+
+### Features
+
+* **Select:** add inline filtering to checkbox select ([#3843](https://github.com/patternfly/patternfly-react/issues/3843)) ([2263de8](https://github.com/patternfly/patternfly-react/commit/2263de8361b196f4421a3adcbb01b4b2dd410d4a))
+
+
+
+
+
+## [3.144.1](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.144.0...@patternfly/react-core@3.144.1) (2020-03-06)
+
+**Note:** Version bump only for package @patternfly/react-core
+
+
+
+
+
 # [3.144.0](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@3.143.0...@patternfly/react-core@3.144.0) (2020-03-06)
 
 
