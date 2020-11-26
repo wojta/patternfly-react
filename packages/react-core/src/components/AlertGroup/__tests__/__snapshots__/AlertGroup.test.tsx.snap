@@ -39,14 +39,10 @@ exports[`Standard Alert Group is not a toast alert group 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 512 512"
                     width="1em"
                   >
@@ -98,10 +94,10 @@ exports[`Toast Alert Group contains expected modifier class 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 576 512"
                   width="1em"
                 >
@@ -164,14 +160,10 @@ exports[`Toast Alert Group contains expected modifier class 1`] = `
                     <svg
                       aria-hidden={true}
                       aria-labelledby={null}
+                      className="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style={
-                        Object {
-                          "verticalAlign": "-0.125em",
-                        }
-                      }
                       viewBox="0 0 576 512"
                       width="1em"
                     >
@@ -226,10 +218,10 @@ exports[`alertgroup closes when alerts are closed 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 576 512"
                   width="1em"
                 >
@@ -274,10 +266,10 @@ exports[`alertgroup closes when alerts are closed 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 896 1024"
                   width="1em"
                 >
@@ -310,10 +302,10 @@ exports[`alertgroup closes when alerts are closed 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 352 512"
                     width="1em"
                   >
@@ -354,10 +346,10 @@ exports[`alertgroup closes when alerts are closed 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 896 1024"
                   width="1em"
                 >
@@ -390,10 +382,10 @@ exports[`alertgroup closes when alerts are closed 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 352 512"
                     width="1em"
                   >
@@ -709,14 +701,10 @@ exports[`alertgroup closes when alerts are closed 1`] = `
                     <svg
                       aria-hidden={true}
                       aria-labelledby={null}
+                      className="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style={
-                        Object {
-                          "verticalAlign": "-0.125em",
-                        }
-                      }
                       viewBox="0 0 896 1024"
                       width="1em"
                     >
@@ -767,10 +755,22 @@ exports[`alertgroup closes when alerts are closed 1`] = `
                         role={null}
                         type="button"
                       >
+<<<<<<< HEAD
                         <TimesIcon
                           color="currentColor"
                           noVerticalAlign={false}
                           size="sm"
+=======
+                        <svg
+                          aria-hidden={true}
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 352 512"
+                          width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
                         >
                           <svg
                             aria-hidden={true}

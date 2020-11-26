@@ -138,10 +138,10 @@ exports[`optionsMenu expanded 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -335,10 +335,10 @@ exports[`optionsMenu expanded 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -540,10 +540,10 @@ exports[`optionsMenu expanded 1`] = `
                     >
                       <svg
                         aria-hidden="true"
+                        class="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style="vertical-align: -0.125em;"
                         viewBox="0 0 320 512"
                         width="1em"
                       >
@@ -726,14 +726,10 @@ exports[`optionsMenu expanded 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -1360,10 +1356,10 @@ exports[`optionsMenu isDisabled 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -1417,10 +1413,10 @@ exports[`optionsMenu isDisabled 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -1482,10 +1478,10 @@ exports[`optionsMenu isDisabled 1`] = `
                     >
                       <svg
                         aria-hidden="true"
+                        class="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style="vertical-align: -0.125em;"
                         viewBox="0 0 320 512"
                         width="1em"
                       >
@@ -1527,14 +1523,10 @@ exports[`optionsMenu isDisabled 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -1691,10 +1683,10 @@ exports[`optionsMenu open up 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -1747,10 +1739,10 @@ exports[`optionsMenu open up 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -1811,10 +1803,10 @@ exports[`optionsMenu open up 1`] = `
                     >
                       <svg
                         aria-hidden="true"
+                        class="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style="vertical-align: -0.125em;"
                         viewBox="0 0 320 512"
                         width="1em"
                       >
@@ -1856,14 +1848,10 @@ exports[`optionsMenu open up 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -2264,10 +2252,10 @@ exports[`optionsMenu regular 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -2320,10 +2308,10 @@ exports[`optionsMenu regular 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -2384,10 +2372,10 @@ exports[`optionsMenu regular 1`] = `
                     >
                       <svg
                         aria-hidden="true"
+                        class="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style="vertical-align: -0.125em;"
                         viewBox="0 0 320 512"
                         width="1em"
                       >
@@ -2429,14 +2417,10 @@ exports[`optionsMenu regular 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -2594,10 +2578,10 @@ exports[`optionsMenu right aligned + open up 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -2650,10 +2634,10 @@ exports[`optionsMenu right aligned + open up 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -2714,10 +2698,10 @@ exports[`optionsMenu right aligned + open up 1`] = `
                     >
                       <svg
                         aria-hidden="true"
+                        class="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style="vertical-align: -0.125em;"
                         viewBox="0 0 320 512"
                         width="1em"
                       >
@@ -2759,14 +2743,10 @@ exports[`optionsMenu right aligned + open up 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -2923,10 +2903,10 @@ exports[`optionsMenu right aligned 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -2979,10 +2959,10 @@ exports[`optionsMenu right aligned 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -3043,10 +3023,10 @@ exports[`optionsMenu right aligned 1`] = `
                     >
                       <svg
                         aria-hidden="true"
+                        class="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style="vertical-align: -0.125em;"
                         viewBox="0 0 320 512"
                         width="1em"
                       >
@@ -3088,14 +3068,10 @@ exports[`optionsMenu right aligned 1`] = `
                   <svg
                     aria-hidden={true}
                     aria-labelledby={null}
+                    className="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style={
-                      Object {
-                        "verticalAlign": "-0.125em",
-                      }
-                    }
                     viewBox="0 0 320 512"
                     width="1em"
                   >

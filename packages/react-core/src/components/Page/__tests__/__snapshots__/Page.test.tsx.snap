@@ -343,14 +343,10 @@ exports[`Check page to verify breadcrumb is created - PageBreadcrumb syntax 1`] 
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -388,14 +384,10 @@ exports[`Check page to verify breadcrumb is created - PageBreadcrumb syntax 1`] 
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -434,14 +426,10 @@ exports[`Check page to verify breadcrumb is created - PageBreadcrumb syntax 1`] 
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -624,14 +612,10 @@ exports[`Check page to verify breadcrumb is created 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -669,14 +653,10 @@ exports[`Check page to verify breadcrumb is created 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -715,14 +695,10 @@ exports[`Check page to verify breadcrumb is created 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -910,14 +886,10 @@ exports[`Check page to verify grouped nav and breadcrumb - new components syntax
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
+                              className="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style={
-                                Object {
-                                  "verticalAlign": "-0.125em",
-                                }
-                              }
                               viewBox="0 0 256 512"
                               width="1em"
                             >
@@ -955,14 +927,10 @@ exports[`Check page to verify grouped nav and breadcrumb - new components syntax
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
+                              className="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style={
-                                Object {
-                                  "verticalAlign": "-0.125em",
-                                }
-                              }
                               viewBox="0 0 256 512"
                               width="1em"
                             >
@@ -1001,14 +969,10 @@ exports[`Check page to verify grouped nav and breadcrumb - new components syntax
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
+                              className="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style={
-                                Object {
-                                  "verticalAlign": "-0.125em",
-                                }
-                              }
                               viewBox="0 0 256 512"
                               width="1em"
                             >
@@ -1071,14 +1035,10 @@ exports[`Check page to verify grouped nav and breadcrumb - new components syntax
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -1204,14 +1164,10 @@ exports[`Check page to verify grouped nav and breadcrumb - new components syntax
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 256 512"
                           width="1em"
                         >
@@ -1460,14 +1416,10 @@ exports[`Check page to verify grouped nav and breadcrumb - old / props syntax 1`
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
+                        className="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style={
-                          Object {
-                            "verticalAlign": "-0.125em",
-                          }
-                        }
                         viewBox="0 0 256 512"
                         width="1em"
                       >
@@ -1593,14 +1545,10 @@ exports[`Check page to verify grouped nav and breadcrumb - old / props syntax 1`
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
+                        className="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style={
-                          Object {
-                            "verticalAlign": "-0.125em",
-                          }
-                        }
                         viewBox="0 0 256 512"
                         width="1em"
                       >
@@ -1661,14 +1609,10 @@ exports[`Check page to verify grouped nav and breadcrumb - old / props syntax 1`
                               <svg
                                 aria-hidden={true}
                                 aria-labelledby={null}
+                                className="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style={
-                                  Object {
-                                    "verticalAlign": "-0.125em",
-                                  }
-                                }
                                 viewBox="0 0 256 512"
                                 width="1em"
                               >
@@ -1706,14 +1650,10 @@ exports[`Check page to verify grouped nav and breadcrumb - old / props syntax 1`
                               <svg
                                 aria-hidden={true}
                                 aria-labelledby={null}
+                                className="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style={
-                                  Object {
-                                    "verticalAlign": "-0.125em",
-                                  }
-                                }
                                 viewBox="0 0 256 512"
                                 width="1em"
                               >
@@ -1752,14 +1692,10 @@ exports[`Check page to verify grouped nav and breadcrumb - old / props syntax 1`
                               <svg
                                 aria-hidden={true}
                                 aria-labelledby={null}
+                                className="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style={
-                                  Object {
-                                    "verticalAlign": "-0.125em",
-                                  }
-                                }
                                 viewBox="0 0 256 512"
                                 width="1em"
                               >
@@ -1938,14 +1874,10 @@ exports[`Check page to verify nav is created - PageNavigation syntax 1`] = `
                     <svg
                       aria-hidden={true}
                       aria-labelledby={null}
+                      className="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style={
-                        Object {
-                          "verticalAlign": "-0.125em",
-                        }
-                      }
                       viewBox="0 0 256 512"
                       width="1em"
                     >
@@ -2071,14 +2003,10 @@ exports[`Check page to verify nav is created - PageNavigation syntax 1`] = `
                     <svg
                       aria-hidden={true}
                       aria-labelledby={null}
+                      className="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style={
-                        Object {
-                          "verticalAlign": "-0.125em",
-                        }
-                      }
                       viewBox="0 0 256 512"
                       width="1em"
                     >
@@ -2293,14 +2221,10 @@ exports[`Check page to verify skip to content points to main content region 1`] 
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
+                        className="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style={
-                          Object {
-                            "verticalAlign": "-0.125em",
-                          }
-                        }
                         viewBox="0 0 256 512"
                         width="1em"
                       >
@@ -2338,14 +2262,10 @@ exports[`Check page to verify skip to content points to main content region 1`] 
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
+                        className="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style={
-                          Object {
-                            "verticalAlign": "-0.125em",
-                          }
-                        }
                         viewBox="0 0 256 512"
                         width="1em"
                       >
@@ -2384,14 +2304,10 @@ exports[`Check page to verify skip to content points to main content region 1`] 
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
+                        className="pf-svg-vertical-align"
                         fill="currentColor"
                         height="1em"
                         role="img"
-                        style={
-                          Object {
-                            "verticalAlign": "-0.125em",
-                          }
-                        }
                         viewBox="0 0 256 512"
                         width="1em"
                       >

@@ -1,4 +1,7 @@
 import * as React from 'react';
+import '@patternfly/react-styles/css/base/patternfly-svg.css';
+import styles from '@patternfly/react-styles/css/base/patternfly-svg';
+import { css } from '@patternfly/react-styles';
 
 export enum IconSize {
   sm = 'sm',
@@ -66,13 +69,12 @@ export function createIcon({
 
       const hasTitle = Boolean(title);
       const heightWidth = getSize(size);
-      const baseAlign = -0.125 * Number.parseFloat(heightWidth);
-      const style = noVerticalAlign ? null : { verticalAlign: `${baseAlign}em` };
+      const cls = noVerticalAlign ? null : styles.svgVerticalAlign;
       const viewBox = [xOffset, yOffset, width, height].join(' ');
 
       return (
         <svg
-          style={style}
+          className={css(cls)}
           fill={color}
           height={heightWidth}
           width={heightWidth}

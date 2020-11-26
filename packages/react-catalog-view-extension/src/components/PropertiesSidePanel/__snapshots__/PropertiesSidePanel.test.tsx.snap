@@ -40,6 +40,7 @@ exports[`PropertiesSidePanel renders properly 1`] = `
       <span>
         <svg
           aria-hidden="true"
+          class="pf-svg-vertical-align"
           fill="currentColor"
           height="1em"
           role="img"
@@ -134,10 +135,10 @@ exports[`PropertiesSidePanel renders properly 1`] = `
         0.22.2 
         <svg
           aria-hidden="true"
+          class="pf-svg-vertical-align"
           fill="currentColor"
           height="1em"
           role="img"
-          style="vertical-align: -0.125em;"
           viewBox="0 0 512 512"
           width="1em"
         >
@@ -166,10 +167,10 @@ exports[`PropertiesSidePanel renders properly 1`] = `
       <span>
         <svg
           aria-hidden="true"
+          class="pf-svg-vertical-align"
           fill="currentColor"
           height="1em"
           role="img"
-          style="vertical-align: -0.125em;"
           viewBox="0 0 496 512"
           width="1em"
         >

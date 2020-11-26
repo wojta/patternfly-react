@@ -260,10 +260,10 @@ exports[`component render custom pagination toggle 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -327,10 +327,10 @@ exports[`component render custom pagination toggle 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -392,10 +392,10 @@ exports[`component render custom pagination toggle 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -434,14 +434,10 @@ exports[`component render custom pagination toggle 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -964,10 +960,10 @@ exports[`component render custom perPageOptions 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -1061,10 +1057,10 @@ exports[`component render custom perPageOptions 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -1138,10 +1134,10 @@ exports[`component render custom perPageOptions 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -1180,14 +1176,10 @@ exports[`component render custom perPageOptions 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -1770,10 +1762,10 @@ exports[`component render custom start end 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -1867,10 +1859,10 @@ exports[`component render custom start end 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -1944,10 +1936,10 @@ exports[`component render custom start end 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -1986,14 +1978,10 @@ exports[`component render custom start end 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -3035,10 +3023,10 @@ exports[`component render last page 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -3132,10 +3120,10 @@ exports[`component render last page 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -3209,10 +3197,10 @@ exports[`component render last page 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -3251,14 +3239,10 @@ exports[`component render last page 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -3841,10 +3825,10 @@ exports[`component render limited number of pages 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -3938,10 +3922,10 @@ exports[`component render limited number of pages 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -4015,10 +3999,10 @@ exports[`component render limited number of pages 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -4057,14 +4041,10 @@ exports[`component render limited number of pages 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -4650,10 +4630,10 @@ exports[`component render no items 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -4748,10 +4728,10 @@ exports[`component render no items 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -4826,10 +4806,10 @@ exports[`component render no items 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -4868,14 +4848,10 @@ exports[`component render no items 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -5436,10 +5412,10 @@ exports[`component render should render correctly bottom 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -5533,10 +5509,10 @@ exports[`component render should render correctly bottom 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -5610,10 +5586,10 @@ exports[`component render should render correctly bottom 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -5652,14 +5628,10 @@ exports[`component render should render correctly bottom 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -6218,10 +6190,10 @@ exports[`component render should render correctly bottom sticky 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -6315,10 +6287,10 @@ exports[`component render should render correctly bottom sticky 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -6392,10 +6364,10 @@ exports[`component render should render correctly bottom sticky 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -6434,14 +6406,10 @@ exports[`component render should render correctly bottom sticky 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -7024,10 +6992,10 @@ exports[`component render should render correctly compact 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -7121,10 +7089,10 @@ exports[`component render should render correctly compact 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -7198,10 +7166,10 @@ exports[`component render should render correctly compact 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -7240,14 +7208,10 @@ exports[`component render should render correctly compact 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -7690,10 +7654,10 @@ exports[`component render should render correctly disabled 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -7788,10 +7752,10 @@ exports[`component render should render correctly disabled 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -7866,10 +7830,10 @@ exports[`component render should render correctly disabled 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -7908,14 +7872,10 @@ exports[`component render should render correctly disabled 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -8500,10 +8460,10 @@ exports[`component render should render correctly sticky 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -8597,10 +8557,10 @@ exports[`component render should render correctly sticky 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -8674,10 +8634,10 @@ exports[`component render should render correctly sticky 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -8716,14 +8676,10 @@ exports[`component render should render correctly sticky 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -9306,10 +9262,10 @@ exports[`component render should render correctly top 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -9403,10 +9359,10 @@ exports[`component render should render correctly top 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -9480,10 +9436,10 @@ exports[`component render should render correctly top 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -9522,14 +9478,10 @@ exports[`component render should render correctly top 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -10102,10 +10054,10 @@ exports[`component render titles 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -10200,10 +10152,10 @@ exports[`component render titles 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -10277,10 +10229,10 @@ exports[`component render titles 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -10319,14 +10271,10 @@ exports[`component render titles 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -10910,10 +10858,10 @@ exports[`component render up drop direction 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -11007,10 +10955,10 @@ exports[`component render up drop direction 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -11084,10 +11032,10 @@ exports[`component render up drop direction 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -11126,14 +11074,10 @@ exports[`component render up drop direction 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -11717,10 +11661,10 @@ exports[`component render zero results 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -11815,10 +11759,10 @@ exports[`component render zero results 1`] = `
                           >
                             <svg
                               aria-hidden="true"
+                              class="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style="vertical-align: -0.125em;"
                               viewBox="0 0 320 512"
                               width="1em"
                             >
@@ -11893,10 +11837,10 @@ exports[`component render zero results 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
+                                class="pf-svg-vertical-align"
                                 fill="currentColor"
                                 height="1em"
                                 role="img"
-                                style="vertical-align: -0.125em;"
                                 viewBox="0 0 320 512"
                                 width="1em"
                               >
@@ -11935,14 +11879,10 @@ exports[`component render zero results 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
                           viewBox="0 0 320 512"
                           width="1em"
                         >

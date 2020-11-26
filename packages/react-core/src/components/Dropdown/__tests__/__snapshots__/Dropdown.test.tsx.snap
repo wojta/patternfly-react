@@ -58,10 +58,10 @@ exports[`KebabToggle basic 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -114,10 +114,10 @@ exports[`KebabToggle basic 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -156,14 +156,10 @@ exports[`KebabToggle basic 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -619,10 +615,10 @@ exports[`KebabToggle dropup + right aligned 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -668,10 +664,10 @@ exports[`KebabToggle dropup + right aligned 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -703,14 +699,10 @@ exports[`KebabToggle dropup + right aligned 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -1142,10 +1134,10 @@ exports[`KebabToggle dropup 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -1191,10 +1183,10 @@ exports[`KebabToggle dropup 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -1226,14 +1218,10 @@ exports[`KebabToggle dropup 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -1665,10 +1653,10 @@ exports[`KebabToggle expanded 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -1791,10 +1779,10 @@ exports[`KebabToggle expanded 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -1903,14 +1891,10 @@ exports[`KebabToggle expanded 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -2677,10 +2661,10 @@ exports[`KebabToggle plain 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -2726,10 +2710,10 @@ exports[`KebabToggle plain 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -2761,14 +2745,10 @@ exports[`KebabToggle plain 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -3199,10 +3179,10 @@ exports[`KebabToggle regular 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -3248,10 +3228,10 @@ exports[`KebabToggle regular 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -3283,14 +3263,10 @@ exports[`KebabToggle regular 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -3722,10 +3698,10 @@ exports[`KebabToggle right aligned 1`] = `
               >
                 <svg
                   aria-hidden="true"
+                  class="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style="vertical-align: -0.125em;"
                   viewBox="0 0 192 512"
                   width="1em"
                 >
@@ -3771,10 +3747,10 @@ exports[`KebabToggle right aligned 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 192 512"
                     width="1em"
                   >
@@ -3806,14 +3782,10 @@ exports[`KebabToggle right aligned 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 192 512"
                 width="1em"
               >
@@ -4971,10 +4943,10 @@ exports[`dropdown basic 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -5040,10 +5012,10 @@ exports[`dropdown basic 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -5093,14 +5065,10 @@ exports[`dropdown basic 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >
@@ -5571,10 +5539,10 @@ exports[`dropdown dropup + right aligned 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -5633,10 +5601,10 @@ exports[`dropdown dropup + right aligned 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -5679,14 +5647,10 @@ exports[`dropdown dropup + right aligned 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >
@@ -6133,10 +6097,10 @@ exports[`dropdown dropup 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -6195,10 +6159,10 @@ exports[`dropdown dropup 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -6241,14 +6205,10 @@ exports[`dropdown dropup 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >
@@ -6695,10 +6655,10 @@ exports[`dropdown expanded 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -6834,10 +6794,10 @@ exports[`dropdown expanded 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -6957,14 +6917,10 @@ exports[`dropdown expanded 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >
@@ -7748,10 +7704,10 @@ exports[`dropdown primary 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -7810,10 +7766,10 @@ exports[`dropdown primary 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -7856,14 +7812,10 @@ exports[`dropdown primary 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >
@@ -8309,10 +8261,10 @@ exports[`dropdown regular 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -8371,10 +8323,10 @@ exports[`dropdown regular 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -8417,14 +8369,10 @@ exports[`dropdown regular 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >
@@ -8871,10 +8819,10 @@ exports[`dropdown right aligned 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -8933,10 +8881,10 @@ exports[`dropdown right aligned 1`] = `
                   >
                     <svg
                       aria-hidden="true"
+                      class="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style="vertical-align: -0.125em;"
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -8979,14 +8927,10 @@ exports[`dropdown right aligned 1`] = `
                 <svg
                   aria-hidden={true}
                   aria-labelledby={null}
+                  className="pf-svg-vertical-align"
                   fill="currentColor"
                   height="1em"
                   role="img"
-                  style={
-                    Object {
-                      "verticalAlign": "-0.125em",
-                    }
-                  }
                   viewBox="0 0 320 512"
                   width="1em"
                 >

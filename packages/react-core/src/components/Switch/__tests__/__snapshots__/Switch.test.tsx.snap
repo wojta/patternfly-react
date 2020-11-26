@@ -40,10 +40,10 @@ exports[`no label switch is checked 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className=""
             fill="currentColor"
             height="1em"
             role="img"
-            style={null}
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -98,10 +98,10 @@ exports[`no label switch is not checked 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className=""
             fill="currentColor"
             height="1em"
             role="img"
-            style={null}
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -204,10 +204,10 @@ exports[`switch is checked and disabled 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className=""
             fill="currentColor"
             height="1em"
             role="img"
-            style={null}
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -310,10 +310,10 @@ exports[`switch is not checked and disabled 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className=""
             fill="currentColor"
             height="1em"
             role="img"
-            style={null}
             viewBox="0 0 512 512"
             width="1em"
           >

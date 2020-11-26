@@ -2619,12 +2619,12 @@ exports[`DualListSelector with tree 1`] = `
                 <li
                   aria-expanded="true"
                   aria-selected={false}
-                  className="pf-c-dual-list-selector__list-item pf-m-expandable pf-m-expanded"
+                  className="pf-c-dual-list-selector__list-item"
                   id="O1"
                   role="treeitem"
                 >
                   <div
-                    className="pf-c-dual-list-selector__item pf-m-check"
+                    className="pf-c-dual-list-selector__item"
                     onClick={[Function]}
                     tabIndex={-1}
                   >
@@ -2632,11 +2632,11 @@ exports[`DualListSelector with tree 1`] = `
                       className="pf-c-dual-list-selector__item-main"
                     >
                       <div
-                        className="pf-c-dual-list-selector__item-toggle"
+                        className=""
                         onClick={[Function]}
                       >
                         <span
-                          className="pf-c-dual-list-selector__item-toggle-icon"
+                          className=""
                         >
                           <AngleRightIcon
                             aria-hidden={true}
@@ -2647,14 +2647,10 @@ exports[`DualListSelector with tree 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
+                              className="pf-svg-vertical-align"
                               fill="currentColor"
                               height="1em"
                               role="img"
-                              style={
-                                Object {
-                                  "verticalAlign": "-0.125em",
-                                }
-                              }
                               viewBox="0 0 256 512"
                               width="1em"
                             >
@@ -2666,7 +2662,7 @@ exports[`DualListSelector with tree 1`] = `
                         </span>
                       </div>
                       <span
-                        className="pf-c-dual-list-selector__item-check"
+                        className=""
                       >
                         <input
                           checked={false}
@@ -2760,7 +2756,7 @@ exports[`DualListSelector with tree 1`] = `
                           role="treeitem"
                         >
                           <div
-                            className="pf-c-dual-list-selector__item pf-m-check"
+                            className="pf-c-dual-list-selector__item"
                             onClick={[Function]}
                             tabIndex={-1}
                           >
@@ -2768,7 +2764,7 @@ exports[`DualListSelector with tree 1`] = `
                               className="pf-c-dual-list-selector__item-main"
                             >
                               <span
-                                className="pf-c-dual-list-selector__item-check"
+                                className=""
                               >
                                 <input
                                   checked={false}
@@ -2816,7 +2812,7 @@ exports[`DualListSelector with tree 1`] = `
                   role="treeitem"
                 >
                   <div
-                    className="pf-c-dual-list-selector__item pf-m-check"
+                    className="pf-c-dual-list-selector__item"
                     onClick={[Function]}
                     tabIndex={-1}
                   >
@@ -2824,7 +2820,7 @@ exports[`DualListSelector with tree 1`] = `
                       className="pf-c-dual-list-selector__item-main"
                     >
                       <span
-                        className="pf-c-dual-list-selector__item-check"
+                        className=""
                       >
                         <input
                           checked={false}

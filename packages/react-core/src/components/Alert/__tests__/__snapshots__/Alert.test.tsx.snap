@@ -34,14 +34,10 @@ exports[`Alert - danger Action Close Button 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -165,14 +161,10 @@ exports[`Alert - danger Action Link 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -270,14 +262,10 @@ exports[`Alert - danger Action and Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -377,14 +365,10 @@ exports[`Alert - danger Custom aria label 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -491,14 +475,10 @@ exports[`Alert - danger Custom icon 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 640 512"
             width="1em"
           >
@@ -556,14 +536,10 @@ exports[`Alert - danger Description 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -620,14 +596,10 @@ exports[`Alert - danger Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -689,14 +661,10 @@ exports[`Alert - danger Toast alerts match snapsnot 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -755,14 +723,10 @@ exports[`Alert - danger inline variation 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -826,14 +790,10 @@ exports[`Alert - default Action Close Button 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -957,14 +917,10 @@ exports[`Alert - default Action Link 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1062,14 +1018,10 @@ exports[`Alert - default Action and Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1169,14 +1121,10 @@ exports[`Alert - default Custom aria label 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1283,14 +1231,10 @@ exports[`Alert - default Custom icon 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 640 512"
             width="1em"
           >
@@ -1348,14 +1292,10 @@ exports[`Alert - default Description 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1412,14 +1352,10 @@ exports[`Alert - default Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1481,14 +1417,10 @@ exports[`Alert - default Toast alerts match snapsnot 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1547,14 +1479,10 @@ exports[`Alert - default inline variation 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 896 1024"
             width="1em"
           >
@@ -1618,14 +1546,10 @@ exports[`Alert - info Action Close Button 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -1749,14 +1673,10 @@ exports[`Alert - info Action Link 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -1854,14 +1774,10 @@ exports[`Alert - info Action and Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -1961,14 +1877,10 @@ exports[`Alert - info Custom aria label 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2075,14 +1987,10 @@ exports[`Alert - info Custom icon 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 640 512"
             width="1em"
           >
@@ -2140,14 +2048,10 @@ exports[`Alert - info Description 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2204,14 +2108,10 @@ exports[`Alert - info Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2273,14 +2173,10 @@ exports[`Alert - info Toast alerts match snapsnot 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2339,14 +2235,10 @@ exports[`Alert - info inline variation 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2410,14 +2302,10 @@ exports[`Alert - success Action Close Button 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2541,14 +2429,10 @@ exports[`Alert - success Action Link 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2646,14 +2530,10 @@ exports[`Alert - success Action and Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2753,14 +2633,10 @@ exports[`Alert - success Custom aria label 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2867,14 +2743,10 @@ exports[`Alert - success Custom icon 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 640 512"
             width="1em"
           >
@@ -2932,14 +2804,10 @@ exports[`Alert - success Description 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -2996,14 +2864,10 @@ exports[`Alert - success Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -3065,14 +2929,10 @@ exports[`Alert - success Toast alerts match snapsnot 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -3131,14 +2991,10 @@ exports[`Alert - success inline variation 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
@@ -3202,14 +3058,10 @@ exports[`Alert - warning Action Close Button 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3333,14 +3185,10 @@ exports[`Alert - warning Action Link 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3438,14 +3286,10 @@ exports[`Alert - warning Action and Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3545,14 +3389,10 @@ exports[`Alert - warning Custom aria label 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3659,14 +3499,10 @@ exports[`Alert - warning Custom icon 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 640 512"
             width="1em"
           >
@@ -3724,14 +3560,10 @@ exports[`Alert - warning Description 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3788,14 +3620,10 @@ exports[`Alert - warning Title 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3857,14 +3685,10 @@ exports[`Alert - warning Toast alerts match snapsnot 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >
@@ -3923,14 +3747,10 @@ exports[`Alert - warning inline variation 1`] = `
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 576 512"
             width="1em"
           >

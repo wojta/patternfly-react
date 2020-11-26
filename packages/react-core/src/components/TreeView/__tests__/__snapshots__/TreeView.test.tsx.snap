@@ -158,9 +158,78 @@ exports[`tree view renders active successfully 1`] = `
             hasBadge={false}
             hasCheck={false}
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <button
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    ApplicationLauncher
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+            <TreeView
+              activeItems={
+                Array [
+                  Object {
+                    "children": Array [
+                      Object {
+                        "id": "App1Settings",
+                        "name": "Settings",
+                      },
+                      Object {
+                        "id": "App1Current",
+                        "name": "Current",
+                      },
+                    ],
+                    "id": "App1",
+                    "name": "Application 1",
+                  },
+                ]
+              }
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -360,7 +429,144 @@ exports[`tree view renders active successfully 1`] = `
                         ],
                         "id": "App1",
                         "name": "Application 1",
-                      },
+                      }
+                    }
+                    key="Application 1"
+                    name="Application 1"
+                    onSelect={[MockFunction]}
+                    parentItem={
+                      Object {
+                        "children": Array [
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App1Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "id": "App1Current",
+                                "name": "Current",
+                              },
+                            ],
+                            "id": "App1",
+                            "name": "Application 1",
+                          },
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App2Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "children": Array [
+                                  Object {
+                                    "id": "LoadApp1",
+                                    "name": "Loading App 1",
+                                  },
+                                  Object {
+                                    "id": "LoadApp2",
+                                    "name": "Loading App 2",
+                                  },
+                                  Object {
+                                    "id": "LoadApp3",
+                                    "name": "Loading App 3",
+                                  },
+                                ],
+                                "id": "App2Loader",
+                                "name": "Loader",
+                              },
+                            ],
+                            "id": "App2",
+                            "name": "Application 2",
+                          },
+                        ],
+                        "defaultExpanded": true,
+                        "id": "AppLaunch",
+                        "name": "ApplicationLauncher",
+                      }
+                    }
+                  >
+                    <li
+                      className="pf-c-tree-view__list-item"
+                      id="App1"
+                      role="treeitem"
+                      tabIndex={0}
+                    >
+                      <div
+                        className="pf-c-tree-view__content"
+                      >
+                        <GenerateId
+                          prefix="checkbox-id"
+                        >
+                          <button
+                            className="pf-c-tree-view__node"
+                            onClick={[Function]}
+                          >
+                            <div
+                              className="pf-c-tree-view__node-toggle"
+                              onClick={[Function]}
+                            >
+                              <span
+                                className="pf-c-tree-view__node-toggle-icon"
+                              >
+                                <AngleRightIcon
+                                  aria-hidden="true"
+                                  color="currentColor"
+                                  noVerticalAlign={false}
+                                  size="sm"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                                    />
+                                  </svg>
+                                </AngleRightIcon>
+                              </span>
+                            </div>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 1
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "id": "App1Settings",
+                              "name": "Settings",
+                            },
+                            Object {
+                              "id": "App1Current",
+                              "name": "Current",
+                            },
+                          ],
+                          "id": "App1",
+                          "name": "Application 1",
+                        },
+                      ]
+                    }
+                    compareItems={[Function]}
+                    defaultExpanded={false}
+                    hasBadge={false}
+                    hasCheck={false}
+                    id="App2"
+                    itemData={
                       Object {
                         "children": Array [
                           Object {
@@ -525,9 +731,13 @@ exports[`tree view renders active successfully 1`] = `
                                 >
                                   <AngleRightIcon
                                     aria-hidden="true"
-                                    color="currentColor"
-                                    noVerticalAlign={false}
-                                    size="sm"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
                                   >
                                     <svg
                                       aria-hidden="true"
@@ -813,9 +1023,13 @@ exports[`tree view renders active successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -872,7 +1086,62 @@ exports[`tree view renders active successfully 1`] = `
             hasBadge={false}
             hasCheck={false}
             id="Sources"
-            itemData={
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <button
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    Sources
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+          </li>
+        </TreeViewListItem>
+        <TreeViewListItem
+          activeItems={
+            Array [
               Object {
                 "children": Array [
                   Object {
@@ -921,9 +1190,13 @@ exports[`tree view renders active successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -1224,9 +1497,91 @@ exports[`tree view renders badges successfully 1`] = `
             hasBadge={true}
             hasCheck={false}
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <button
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    ApplicationLauncher
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-count"
+                  >
+                    <Badge
+                      isRead={true}
+                    >
+                      <span
+                        className="pf-c-badge pf-m-read"
+                      >
+                        2
+                      </span>
+                    </Badge>
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+            <TreeView
+              activeItems={
+                Array [
+                  Object {
+                    "children": Array [
+                      Object {
+                        "id": "App1Settings",
+                        "name": "Settings",
+                      },
+                      Object {
+                        "id": "App1Current",
+                        "name": "Current",
+                      },
+                    ],
+                    "id": "App1",
+                    "name": "Application 1",
+                  },
+                ]
+              }
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -1465,48 +1820,84 @@ exports[`tree view renders badges successfully 1`] = `
                             "name": "Loader",
                           },
                         ],
-                        "id": "App2",
-                        "name": "Application 2",
-                      },
-                    ],
-                    "defaultExpanded": true,
-                    "id": "AppLaunch",
-                    "name": "ApplicationLauncher",
-                  }
-                }
-              >
-                <TreeViewList
-                  isNested={true}
-                >
-                  <ul
-                    className="pf-c-tree-view__list"
-                    role="group"
-                  >
-                    <TreeViewListItem
-                      activeItems={
-                        Array [
-                          Object {
-                            "children": Array [
-                              Object {
-                                "id": "App1Settings",
-                                "name": "Settings",
-                              },
-                              Object {
-                                "id": "App1Current",
-                                "name": "Current",
-                              },
-                            ],
-                            "id": "App1",
-                            "name": "Application 1",
-                          },
-                        ]
+                        "defaultExpanded": true,
+                        "id": "AppLaunch",
+                        "name": "ApplicationLauncher",
                       }
-                      compareItems={[Function]}
-                      defaultExpanded={false}
-                      hasBadge={true}
-                      hasCheck={false}
+                    }
+                  >
+                    <li
+                      className="pf-c-tree-view__list-item"
                       id="App1"
-                      itemData={
+                      role="treeitem"
+                      tabIndex={0}
+                    >
+                      <div
+                        className="pf-c-tree-view__content"
+                      >
+                        <GenerateId
+                          prefix="checkbox-id"
+                        >
+                          <button
+                            className="pf-c-tree-view__node"
+                            onClick={[Function]}
+                          >
+                            <div
+                              className="pf-c-tree-view__node-toggle"
+                              onClick={[Function]}
+                            >
+                              <span
+                                className="pf-c-tree-view__node-toggle-icon"
+                              >
+                                <AngleRightIcon
+                                  aria-hidden="true"
+                                  color="currentColor"
+                                  noVerticalAlign={false}
+                                  size="sm"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                                    />
+                                  </svg>
+                                </AngleRightIcon>
+                              </span>
+                            </div>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 1
+                            </span>
+                            <span
+                              className="pf-c-tree-view__node-count"
+                            >
+                              <Badge
+                                isRead={true}
+                              >
+                                <span
+                                  className="pf-c-badge pf-m-read"
+                                >
+                                  2
+                                </span>
+                              </Badge>
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
                         Object {
                           "children": Array [
                             Object {
@@ -1788,9 +2179,13 @@ exports[`tree view renders badges successfully 1`] = `
                                 >
                                   <AngleRightIcon
                                     aria-hidden="true"
-                                    color="currentColor"
-                                    noVerticalAlign={false}
-                                    size="sm"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
                                   >
                                     <svg
                                       aria-hidden="true"
@@ -1918,9 +2313,13 @@ exports[`tree view renders badges successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -2039,9 +2438,13 @@ exports[`tree view renders badges successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -2154,9 +2557,13 @@ exports[`tree view renders badges successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -2331,9 +2738,60 @@ exports[`tree view renders basic successfully 1`] = `
             hasBadge={false}
             hasCheck={false}
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <button
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    ApplicationLauncher
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+            <TreeView
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -2515,7 +2973,126 @@ exports[`tree view renders basic successfully 1`] = `
                         ],
                         "id": "App1",
                         "name": "Application 1",
-                      },
+                      }
+                    }
+                    key="Application 1"
+                    name="Application 1"
+                    onSelect={[MockFunction]}
+                    parentItem={
+                      Object {
+                        "children": Array [
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App1Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "id": "App1Current",
+                                "name": "Current",
+                              },
+                            ],
+                            "id": "App1",
+                            "name": "Application 1",
+                          },
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App2Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "children": Array [
+                                  Object {
+                                    "id": "LoadApp1",
+                                    "name": "Loading App 1",
+                                  },
+                                  Object {
+                                    "id": "LoadApp2",
+                                    "name": "Loading App 2",
+                                  },
+                                  Object {
+                                    "id": "LoadApp3",
+                                    "name": "Loading App 3",
+                                  },
+                                ],
+                                "id": "App2Loader",
+                                "name": "Loader",
+                              },
+                            ],
+                            "id": "App2",
+                            "name": "Application 2",
+                          },
+                        ],
+                        "defaultExpanded": true,
+                        "id": "AppLaunch",
+                        "name": "ApplicationLauncher",
+                      }
+                    }
+                  >
+                    <li
+                      className="pf-c-tree-view__list-item"
+                      id="App1"
+                      role="treeitem"
+                      tabIndex={0}
+                    >
+                      <div
+                        className="pf-c-tree-view__content"
+                      >
+                        <GenerateId
+                          prefix="checkbox-id"
+                        >
+                          <button
+                            className="pf-c-tree-view__node"
+                            onClick={[Function]}
+                          >
+                            <div
+                              className="pf-c-tree-view__node-toggle"
+                              onClick={[Function]}
+                            >
+                              <span
+                                className="pf-c-tree-view__node-toggle-icon"
+                              >
+                                <AngleRightIcon
+                                  aria-hidden="true"
+                                  color="currentColor"
+                                  noVerticalAlign={false}
+                                  size="sm"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                                    />
+                                  </svg>
+                                </AngleRightIcon>
+                              </span>
+                            </div>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 1
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    compareItems={[Function]}
+                    defaultExpanded={false}
+                    hasBadge={false}
+                    hasCheck={false}
+                    id="App2"
+                    itemData={
                       Object {
                         "children": Array [
                           Object {
@@ -2662,9 +3239,13 @@ exports[`tree view renders basic successfully 1`] = `
                                 >
                                   <AngleRightIcon
                                     aria-hidden="true"
-                                    color="currentColor"
-                                    noVerticalAlign={false}
-                                    size="sm"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
                                   >
                                     <svg
                                       aria-hidden="true"
@@ -2914,9 +3495,13 @@ exports[`tree view renders basic successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -3004,9 +3589,13 @@ exports[`tree view renders basic successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -3088,9 +3677,13 @@ exports[`tree view renders basic successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -3289,9 +3882,92 @@ exports[`tree view renders checkboxes successfully 1`] = `
             hasBadge={false}
             hasCheck={true}
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <div
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <button
+                    aria-labelledby="label-checkbox-id18"
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </button>
+                  <span
+                    className="pf-c-tree-view__node-check"
+                  >
+                    <input
+                      checked={false}
+                      id="checkbox-id18"
+                      onChange={[Function]}
+                      onClick={[Function]}
+                      type="checkbox"
+                    />
+                  </span>
+                  <label
+                    className="pf-c-tree-view__node-text"
+                    htmlFor="checkbox-id18"
+                    id="label-checkbox-id18"
+                  >
+                    ApplicationLauncher
+                  </label>
+                </div>
+              </GenerateId>
+            </div>
+            <TreeView
+              activeItems={
+                Array [
+                  Object {
+                    "children": Array [
+                      Object {
+                        "id": "App1Settings",
+                        "name": "Settings",
+                      },
+                      Object {
+                        "id": "App1Current",
+                        "name": "Current",
+                      },
+                    ],
+                    "id": "App1",
+                    "name": "Application 1",
+                  },
+                ]
+              }
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -3437,30 +4113,216 @@ exports[`tree view renders checkboxes successfully 1`] = `
                       "id": "App1",
                       "name": "Application 1",
                     },
-                  ]
-                }
-                data={
-                  Array [
-                    Object {
-                      "children": Array [
-                        Object {
-                          "id": "App1Settings",
-                          "name": "Settings",
-                        },
-                        Object {
-                          "id": "App1Current",
-                          "name": "Current",
-                        },
-                      ],
-                      "id": "App1",
-                      "name": "Application 1",
-                    },
                     Object {
                       "children": Array [
                         Object {
                           "id": "App2Settings",
                           "name": "Settings",
                         },
+                        Object {
+                          "children": Array [
+                            Object {
+                              "id": "LoadApp1",
+                              "name": "Loading App 1",
+                            },
+                            Object {
+                              "id": "LoadApp2",
+                              "name": "Loading App 2",
+                            },
+                            Object {
+                              "id": "LoadApp3",
+                              "name": "Loading App 3",
+                            },
+                          ],
+                          "id": "App2Loader",
+                          "name": "Loader",
+                        },
+                      ],
+                      "id": "App2",
+                      "name": "Application 2",
+                    },
+                  ],
+                  "defaultExpanded": true,
+                  "id": "AppLaunch",
+                  "name": "ApplicationLauncher",
+                }
+              }
+            >
+              <TreeViewList
+                isNested={true}
+              >
+                <ul
+                  className="pf-c-tree-view__list"
+                  role="group"
+                >
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "id": "App1Settings",
+                              "name": "Settings",
+                            },
+                            Object {
+                              "id": "App1Current",
+                              "name": "Current",
+                            },
+                          ],
+                          "id": "App1",
+                          "name": "Application 1",
+                        },
+                      ]
+                    }
+                    compareItems={[Function]}
+                    defaultExpanded={false}
+                    hasBadge={false}
+                    hasCheck={true}
+                    id="App1"
+                    itemData={
+                      Object {
+                        "children": Array [
+                          Object {
+                            "id": "App1Settings",
+                            "name": "Settings",
+                          },
+                          Object {
+                            "id": "App1Current",
+                            "name": "Current",
+                          },
+                        ],
+                        "id": "App1",
+                        "name": "Application 1",
+                      }
+                    }
+                    key="Application 1"
+                    name="Application 1"
+                    onSelect={[MockFunction]}
+                    parentItem={
+                      Object {
+                        "children": Array [
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App1Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "id": "App1Current",
+                                "name": "Current",
+                              },
+                            ],
+                            "id": "App1",
+                            "name": "Application 1",
+                          },
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App2Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "children": Array [
+                                  Object {
+                                    "id": "LoadApp1",
+                                    "name": "Loading App 1",
+                                  },
+                                  Object {
+                                    "id": "LoadApp2",
+                                    "name": "Loading App 2",
+                                  },
+                                  Object {
+                                    "id": "LoadApp3",
+                                    "name": "Loading App 3",
+                                  },
+                                ],
+                                "id": "App2Loader",
+                                "name": "Loader",
+                              },
+                            ],
+                            "id": "App2",
+                            "name": "Application 2",
+                          },
+                        ],
+                        "defaultExpanded": true,
+                        "id": "AppLaunch",
+                        "name": "ApplicationLauncher",
+                      }
+                    }
+                  >
+                    <li
+                      className="pf-c-tree-view__list-item"
+                      id="App1"
+                      role="treeitem"
+                      tabIndex={0}
+                    >
+                      <div
+                        className="pf-c-tree-view__content"
+                      >
+                        <GenerateId
+                          prefix="checkbox-id"
+                        >
+                          <div
+                            className="pf-c-tree-view__node"
+                            onClick={[Function]}
+                          >
+                            <button
+                              aria-labelledby="label-checkbox-id19"
+                              className="pf-c-tree-view__node-toggle"
+                              onClick={[Function]}
+                            >
+                              <span
+                                className="pf-c-tree-view__node-toggle-icon"
+                              >
+                                <AngleRightIcon
+                                  aria-hidden="true"
+                                  color="currentColor"
+                                  noVerticalAlign={false}
+                                  size="sm"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                                    />
+                                  </svg>
+                                </AngleRightIcon>
+                              </span>
+                            </button>
+                            <span
+                              className="pf-c-tree-view__node-check"
+                            >
+                              <input
+                                checked={false}
+                                id="checkbox-id19"
+                                onChange={[Function]}
+                                onClick={[Function]}
+                                type="checkbox"
+                              />
+                            </span>
+                            <label
+                              className="pf-c-tree-view__node-text"
+                              htmlFor="checkbox-id19"
+                              id="label-checkbox-id19"
+                            >
+                              Application 1
+                            </label>
+                          </div>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
                         Object {
                           "children": Array [
                             Object {
@@ -3858,9 +4720,13 @@ exports[`tree view renders checkboxes successfully 1`] = `
                                 >
                                   <AngleRightIcon
                                     aria-hidden="true"
-                                    color="currentColor"
-                                    noVerticalAlign={false}
-                                    size="sm"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
                                   >
                                     <svg
                                       aria-hidden="true"
@@ -3990,9 +4856,13 @@ exports[`tree view renders checkboxes successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -4113,9 +4983,13 @@ exports[`tree view renders checkboxes successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -4230,9 +5104,13 @@ exports[`tree view renders checkboxes successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -4472,9 +5350,102 @@ exports[`tree view renders icons successfully 1`] = `
               />
             }
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <button
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-icon"
+                  >
+                    <FolderOpenIcon
+                      color="currentColor"
+                      noVerticalAlign={false}
+                      size="sm"
+                    >
+                      <svg
+                        aria-hidden={true}
+                        aria-labelledby={null}
+                        className="pf-svg-vertical-align"
+                        fill="currentColor"
+                        height="1em"
+                        role="img"
+                        viewBox="0 0 576 512"
+                        width="1em"
+                      >
+                        <path
+                          d="M572.694 292.093L500.27 416.248A63.997 63.997 0 0 1 444.989 448H45.025c-18.523 0-30.064-20.093-20.731-36.093l72.424-124.155A64 64 0 0 1 152 256h399.964c18.523 0 30.064 20.093 20.73 36.093zM152 224h328v-48c0-26.51-21.49-48-48-48H272l-64-64H48C21.49 64 0 85.49 0 112v278.046l69.077-118.418C86.214 242.25 117.989 224 152 224z"
+                        />
+                      </svg>
+                    </FolderOpenIcon>
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    ApplicationLauncher
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+            <TreeView
+              activeItems={
+                Array [
+                  Object {
+                    "children": Array [
+                      Object {
+                        "id": "App1Settings",
+                        "name": "Settings",
+                      },
+                      Object {
+                        "id": "App1Current",
+                        "name": "Current",
+                      },
+                    ],
+                    "id": "App1",
+                    "name": "Application 1",
+                  },
+                ]
+              }
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -4931,36 +5902,128 @@ exports[`tree view renders icons successfully 1`] = `
                                   <svg
                                     aria-hidden={true}
                                     aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
                                     fill="currentColor"
                                     height="1em"
                                     role="img"
-                                    style={
-                                      Object {
-                                        "verticalAlign": "-0.125em",
-                                      }
-                                    }
-                                    viewBox="0 0 512 512"
+                                    viewBox="0 0 256 512"
                                     width="1em"
                                   >
                                     <path
-                                      d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
                                     />
                                   </svg>
-                                </FolderIcon>
+                                </AngleRightIcon>
                               </span>
-                              <span
-                                className="pf-c-tree-view__node-text"
+                            </div>
+                            <span
+                              className="pf-c-tree-view__node-icon"
+                            >
+                              <FolderIcon
+                                color="currentColor"
+                                noVerticalAlign={false}
+                                size="sm"
                               >
-                                Application 1
-                              </span>
-                            </button>
-                          </GenerateId>
-                        </div>
-                      </li>
-                    </TreeViewListItem>
-                    <TreeViewListItem
-                      activeItems={
-                        Array [
+                                <svg
+                                  aria-hidden={true}
+                                  aria-labelledby={null}
+                                  className="pf-svg-vertical-align"
+                                  fill="currentColor"
+                                  height="1em"
+                                  role="img"
+                                  viewBox="0 0 512 512"
+                                  width="1em"
+                                >
+                                  <path
+                                    d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                                  />
+                                </svg>
+                              </FolderIcon>
+                            </span>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 1
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "id": "App1Settings",
+                              "name": "Settings",
+                            },
+                            Object {
+                              "id": "App1Current",
+                              "name": "Current",
+                            },
+                          ],
+                          "id": "App1",
+                          "name": "Application 1",
+                        },
+                      ]
+                    }
+                    compareItems={[Function]}
+                    defaultExpanded={false}
+                    expandedIcon={
+                      <FolderOpenIcon
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      />
+                    }
+                    hasBadge={false}
+                    hasCheck={false}
+                    icon={
+                      <FolderIcon
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      />
+                    }
+                    id="App2"
+                    itemData={
+                      Object {
+                        "children": Array [
+                          Object {
+                            "id": "App2Settings",
+                            "name": "Settings",
+                          },
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "LoadApp1",
+                                "name": "Loading App 1",
+                              },
+                              Object {
+                                "id": "LoadApp2",
+                                "name": "Loading App 2",
+                              },
+                              Object {
+                                "id": "LoadApp3",
+                                "name": "Loading App 3",
+                              },
+                            ],
+                            "id": "App2Loader",
+                            "name": "Loader",
+                          },
+                        ],
+                        "id": "App2",
+                        "name": "Application 2",
+                      }
+                    }
+                    key="Application 2"
+                    name="Application 2"
+                    onSelect={[MockFunction]}
+                    parentItem={
+                      Object {
+                        "children": Array [
                           Object {
                             "children": Array [
                               Object {
@@ -5144,15 +6207,11 @@ exports[`tree view renders icons successfully 1`] = `
                                   <svg
                                     aria-hidden={true}
                                     aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
                                     fill="currentColor"
                                     height="1em"
                                     role="img"
-                                    style={
-                                      Object {
-                                        "verticalAlign": "-0.125em",
-                                      }
-                                    }
-                                    viewBox="0 0 512 512"
+                                    viewBox="0 0 256 512"
                                     width="1em"
                                   >
                                     <path
@@ -5164,21 +6223,78 @@ exports[`tree view renders icons successfully 1`] = `
                               <span
                                 className="pf-c-tree-view__node-text"
                               >
-                                Application 2
-                              </span>
-                            </button>
-                          </GenerateId>
-                        </div>
-                      </li>
-                    </TreeViewListItem>
-                  </ul>
-                </TreeViewList>
-              </TreeView>
-            </li>
-          </TreeViewListItem>
-          <TreeViewListItem
-            activeItems={
-              Array [
+                                <svg
+                                  aria-hidden={true}
+                                  aria-labelledby={null}
+                                  className="pf-svg-vertical-align"
+                                  fill="currentColor"
+                                  height="1em"
+                                  role="img"
+                                  viewBox="0 0 512 512"
+                                  width="1em"
+                                >
+                                  <path
+                                    d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                                  />
+                                </svg>
+                              </FolderIcon>
+                            </span>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 2
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                </ul>
+              </TreeViewList>
+            </TreeView>
+          </li>
+        </TreeViewListItem>
+        <TreeViewListItem
+          activeItems={
+            Array [
+              Object {
+                "children": Array [
+                  Object {
+                    "id": "App1Settings",
+                    "name": "Settings",
+                  },
+                  Object {
+                    "id": "App1Current",
+                    "name": "Current",
+                  },
+                ],
+                "id": "App1",
+                "name": "Application 1",
+              },
+            ]
+          }
+          compareItems={[Function]}
+          defaultExpanded={false}
+          expandedIcon={
+            <FolderOpenIcon
+              color="currentColor"
+              noVerticalAlign={false}
+              size="sm"
+            />
+          }
+          hasBadge={false}
+          hasCheck={false}
+          icon={
+            <FolderIcon
+              color="currentColor"
+              noVerticalAlign={false}
+              size="sm"
+            />
+          }
+          id="Cost"
+          itemData={
+            Object {
+              "children": Array [
                 Object {
                   "children": Array [
                     Object {
@@ -5303,15 +6419,11 @@ exports[`tree view renders icons successfully 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
-                          viewBox="0 0 512 512"
+                          viewBox="0 0 256 512"
                           width="1em"
                         >
                           <path
@@ -5323,16 +6435,73 @@ exports[`tree view renders icons successfully 1`] = `
                     <span
                       className="pf-c-tree-view__node-text"
                     >
-                      Cost Management
-                    </span>
-                  </button>
-                </GenerateId>
-              </div>
-            </li>
-          </TreeViewListItem>
-          <TreeViewListItem
-            activeItems={
-              Array [
+                      <svg
+                        aria-hidden={true}
+                        aria-labelledby={null}
+                        className="pf-svg-vertical-align"
+                        fill="currentColor"
+                        height="1em"
+                        role="img"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                      >
+                        <path
+                          d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                        />
+                      </svg>
+                    </FolderIcon>
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    Cost Management
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+          </li>
+        </TreeViewListItem>
+        <TreeViewListItem
+          activeItems={
+            Array [
+              Object {
+                "children": Array [
+                  Object {
+                    "id": "App1Settings",
+                    "name": "Settings",
+                  },
+                  Object {
+                    "id": "App1Current",
+                    "name": "Current",
+                  },
+                ],
+                "id": "App1",
+                "name": "Application 1",
+              },
+            ]
+          }
+          compareItems={[Function]}
+          defaultExpanded={false}
+          expandedIcon={
+            <FolderOpenIcon
+              color="currentColor"
+              noVerticalAlign={false}
+              size="sm"
+            />
+          }
+          hasBadge={false}
+          hasCheck={false}
+          icon={
+            <FolderIcon
+              color="currentColor"
+              noVerticalAlign={false}
+              size="sm"
+            />
+          }
+          id="Sources"
+          itemData={
+            Object {
+              "children": Array [
                 Object {
                   "children": Array [
                     Object {
@@ -5453,15 +6622,11 @@ exports[`tree view renders icons successfully 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
-                          viewBox="0 0 512 512"
+                          viewBox="0 0 256 512"
                           width="1em"
                         >
                           <path
@@ -5473,52 +6638,35 @@ exports[`tree view renders icons successfully 1`] = `
                     <span
                       className="pf-c-tree-view__node-text"
                     >
-                      Sources
-                    </span>
-                  </button>
-                </GenerateId>
-              </div>
-            </li>
-          </TreeViewListItem>
-          <TreeViewListItem
-            activeItems={
-              Array [
-                Object {
-                  "children": Array [
-                    Object {
-                      "id": "App1Settings",
-                      "name": "Settings",
-                    },
-                    Object {
-                      "id": "App1Current",
-                      "name": "Current",
-                    },
-                  ],
-                  "id": "App1",
-                  "name": "Application 1",
-                },
-              ]
-            }
-            compareItems={[Function]}
-            defaultExpanded={false}
-            expandedIcon={
-              <FolderOpenIcon
-                color="currentColor"
-                noVerticalAlign={false}
-                size="sm"
-              />
-            }
-            hasBadge={false}
-            hasCheck={false}
-            icon={
-              <FolderIcon
-                color="currentColor"
-                noVerticalAlign={false}
-                size="sm"
-              />
-            }
-            id="Long"
-            itemData={
+                      <svg
+                        aria-hidden={true}
+                        aria-labelledby={null}
+                        className="pf-svg-vertical-align"
+                        fill="currentColor"
+                        height="1em"
+                        role="img"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                      >
+                        <path
+                          d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                        />
+                      </svg>
+                    </FolderIcon>
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    Sources
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+          </li>
+        </TreeViewListItem>
+        <TreeViewListItem
+          activeItems={
+            Array [
               Object {
                 "children": Array [
                   Object {
@@ -5597,15 +6745,11 @@ exports[`tree view renders icons successfully 1`] = `
                         <svg
                           aria-hidden={true}
                           aria-labelledby={null}
+                          className="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style={
-                            Object {
-                              "verticalAlign": "-0.125em",
-                            }
-                          }
-                          viewBox="0 0 512 512"
+                          viewBox="0 0 256 512"
                           width="1em"
                         >
                           <path
@@ -5617,17 +6761,35 @@ exports[`tree view renders icons successfully 1`] = `
                     <span
                       className="pf-c-tree-view__node-text"
                     >
-                      Really really really long folder name that overflows the container it is in
-                    </span>
-                  </button>
-                </GenerateId>
-              </div>
-            </li>
-          </TreeViewListItem>
-        </ul>
-      </TreeViewList>
-    </div>
-  </TreeViewRoot>
+                      <svg
+                        aria-hidden={true}
+                        aria-labelledby={null}
+                        className="pf-svg-vertical-align"
+                        fill="currentColor"
+                        height="1em"
+                        role="img"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                      >
+                        <path
+                          d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                        />
+                      </svg>
+                    </FolderIcon>
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    Really really really long folder name that overflows the container it is in
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+          </li>
+        </TreeViewListItem>
+      </ul>
+    </TreeViewList>
+  </div>
 </TreeView>
 `;
 
@@ -5827,9 +6989,116 @@ exports[`tree view renders individual flag options successfully 1`] = `
               />
             }
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <div
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <button
+                    aria-labelledby="label-checkbox-id36"
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </button>
+                  <span
+                    className="pf-c-tree-view__node-check"
+                  >
+                    <input
+                      checked={false}
+                      id="checkbox-id36"
+                      onChange={[Function]}
+                      onClick={[Function]}
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-icon"
+                  >
+                    <FolderOpenIcon
+                      color="currentColor"
+                      noVerticalAlign={false}
+                      size="sm"
+                    >
+                      <svg
+                        aria-hidden={true}
+                        aria-labelledby={null}
+                        className="pf-svg-vertical-align"
+                        fill="currentColor"
+                        height="1em"
+                        role="img"
+                        viewBox="0 0 576 512"
+                        width="1em"
+                      >
+                        <path
+                          d="M572.694 292.093L500.27 416.248A63.997 63.997 0 0 1 444.989 448H45.025c-18.523 0-30.064-20.093-20.731-36.093l72.424-124.155A64 64 0 0 1 152 256h399.964c18.523 0 30.064 20.093 20.73 36.093zM152 224h328v-48c0-26.51-21.49-48-48-48H272l-64-64H48C21.49 64 0 85.49 0 112v278.046l69.077-118.418C86.214 242.25 117.989 224 152 224z"
+                        />
+                      </svg>
+                    </FolderOpenIcon>
+                  </span>
+                  <label
+                    className="pf-c-tree-view__node-text"
+                    htmlFor="checkbox-id36"
+                    id="label-checkbox-id36"
+                  >
+                    ApplicationLauncher
+                  </label>
+                </div>
+              </GenerateId>
+            </div>
+            <TreeView
+              activeItems={
+                Array [
+                  Object {
+                    "children": Array [
+                      Object {
+                        "id": "App1Settings",
+                        "name": "Settings",
+                      },
+                      Object {
+                        "id": "App1Current",
+                        "name": "Current",
+                      },
+                    ],
+                    "id": "App1",
+                    "name": "Application 1",
+                  },
+                ]
+              }
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -6087,7 +7356,157 @@ exports[`tree view renders individual flag options successfully 1`] = `
                         ],
                         "id": "App1",
                         "name": "Application 1",
-                      },
+                      }
+                    }
+                    key="Application 1"
+                    name="Application 1"
+                    onSelect={[MockFunction]}
+                    parentItem={
+                      Object {
+                        "children": Array [
+                          Object {
+                            "children": Array [
+                              Object {
+                                "id": "App1Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "id": "App1Current",
+                                "name": "Current",
+                              },
+                            ],
+                            "id": "App1",
+                            "name": "Application 1",
+                          },
+                          Object {
+                            "children": Array [
+                              Object {
+                                "hasCheck": true,
+                                "id": "App2Settings",
+                                "name": "Settings",
+                              },
+                              Object {
+                                "children": Array [
+                                  Object {
+                                    "id": "LoadApp1",
+                                    "name": "Loading App 1",
+                                  },
+                                  Object {
+                                    "id": "LoadApp2",
+                                    "name": "Loading App 2",
+                                  },
+                                  Object {
+                                    "id": "LoadApp3",
+                                    "name": "Loading App 3",
+                                  },
+                                ],
+                                "id": "App2Loader",
+                                "name": "Loader",
+                              },
+                            ],
+                            "hasBadge": true,
+                            "id": "App2",
+                            "name": "Application 2",
+                          },
+                        ],
+                        "defaultExpanded": true,
+                        "expandedIcon": <FolderOpenIcon
+                          color="currentColor"
+                          noVerticalAlign={false}
+                          size="sm"
+                        />,
+                        "hasCheck": true,
+                        "icon": <FolderIcon
+                          color="currentColor"
+                          noVerticalAlign={false}
+                          size="sm"
+                        />,
+                        "id": "AppLaunch",
+                        "name": "ApplicationLauncher",
+                      }
+                    }
+                  >
+                    <li
+                      className="pf-c-tree-view__list-item"
+                      id="App1"
+                      role="treeitem"
+                      tabIndex={0}
+                    >
+                      <div
+                        className="pf-c-tree-view__content"
+                      >
+                        <GenerateId
+                          prefix="checkbox-id"
+                        >
+                          <button
+                            className="pf-c-tree-view__node"
+                            onClick={[Function]}
+                          >
+                            <div
+                              className="pf-c-tree-view__node-toggle"
+                              onClick={[Function]}
+                            >
+                              <span
+                                className="pf-c-tree-view__node-toggle-icon"
+                              >
+                                <AngleRightIcon
+                                  aria-hidden="true"
+                                  color="currentColor"
+                                  noVerticalAlign={false}
+                                  size="sm"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                                    />
+                                  </svg>
+                                </AngleRightIcon>
+                              </span>
+                            </div>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 1
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "id": "App1Settings",
+                              "name": "Settings",
+                            },
+                            Object {
+                              "id": "App1Current",
+                              "name": "Current",
+                            },
+                          ],
+                          "id": "App1",
+                          "name": "Application 1",
+                        },
+                      ]
+                    }
+                    compareItems={[Function]}
+                    defaultExpanded={false}
+                    hasBadge={true}
+                    hasCheck={false}
+                    id="App2"
+                    itemData={
                       Object {
                         "children": Array [
                           Object {
@@ -6464,9 +7883,13 @@ exports[`tree view renders individual flag options successfully 1`] = `
                                 >
                                   <AngleRightIcon
                                     aria-hidden="true"
-                                    color="currentColor"
-                                    noVerticalAlign={false}
-                                    size="sm"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
                                   >
                                     <svg
                                       aria-hidden="true"
@@ -6685,6 +8108,7 @@ exports[`tree view renders individual flag options successfully 1`] = `
                         role={null}
                         type="button"
                       >
+<<<<<<< HEAD
                         <FolderIcon
                           color="currentColor"
                           noVerticalAlign={false}
@@ -6713,6 +8137,85 @@ exports[`tree view renders individual flag options successfully 1`] = `
                     </ButtonBase>
                   </Button>
                 </div>
+=======
+                        <svg
+                          aria-hidden={true}
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    Cost Management
+                  </span>
+                  <span
+                    className="pf-c-tree-view__node-count"
+                  >
+                    <Badge
+                      isRead={true}
+                    >
+                      <span
+                        className="pf-c-badge pf-m-read"
+                      >
+                        1
+                      </span>
+                    </Badge>
+                  </span>
+                </button>
+              </GenerateId>
+              <div
+                className="pf-c-tree-view__action"
+              >
+                <Button
+                  aria-label="Folder action"
+                  variant="plain"
+                >
+                  <button
+                    aria-disabled={false}
+                    aria-label="Folder action"
+                    className="pf-c-button pf-m-plain"
+                    data-ouia-component-id="OUIA-Generated-Button-plain-1"
+                    data-ouia-component-type="PF4/Button"
+                    data-ouia-safe={true}
+                    disabled={false}
+                    role={null}
+                    type="button"
+                  >
+                    <FolderIcon
+                      color="currentColor"
+                      noVerticalAlign={false}
+                      size="sm"
+                    >
+                      <svg
+                        aria-hidden={true}
+                        aria-labelledby={null}
+                        className="pf-svg-vertical-align"
+                        fill="currentColor"
+                        height="1em"
+                        role="img"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                      >
+                        <path
+                          d="M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48z"
+                        />
+                      </svg>
+                    </FolderIcon>
+                  </button>
+                </Button>
+>>>>>>> SVG vertical-align inline style replaced with class
               </div>
             </li>
           </TreeViewListItem>
@@ -6789,9 +8292,13 @@ exports[`tree view renders individual flag options successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -6891,9 +8398,13 @@ exports[`tree view renders individual flag options successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -7131,9 +8642,78 @@ exports[`tree view renders search successfully 1`] = `
             hasBadge={false}
             hasCheck={false}
             id="AppLaunch"
-            itemData={
-              Object {
-                "children": Array [
+            role="treeitem"
+            tabIndex={0}
+          >
+            <div
+              className="pf-c-tree-view__content"
+            >
+              <GenerateId
+                prefix="checkbox-id"
+              >
+                <button
+                  className="pf-c-tree-view__node"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="pf-c-tree-view__node-toggle"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="pf-c-tree-view__node-toggle-icon"
+                    >
+                      <AngleRightIcon
+                        aria-hidden="true"
+                        color="currentColor"
+                        noVerticalAlign={false}
+                        size="sm"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
+                        >
+                          <path
+                            d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                          />
+                        </svg>
+                      </AngleRightIcon>
+                    </span>
+                  </div>
+                  <span
+                    className="pf-c-tree-view__node-text"
+                  >
+                    ApplicationLauncher
+                  </span>
+                </button>
+              </GenerateId>
+            </div>
+            <TreeView
+              activeItems={
+                Array [
+                  Object {
+                    "children": Array [
+                      Object {
+                        "id": "App1Settings",
+                        "name": "Settings",
+                      },
+                      Object {
+                        "id": "App1Current",
+                        "name": "Current",
+                      },
+                    ],
+                    "id": "App1",
+                    "name": "Application 1",
+                  },
+                ]
+              }
+              data={
+                Array [
                   Object {
                     "children": Array [
                       Object {
@@ -7400,7 +8980,62 @@ exports[`tree view renders search successfully 1`] = `
                       hasBadge={false}
                       hasCheck={false}
                       id="App1"
-                      itemData={
+                      role="treeitem"
+                      tabIndex={0}
+                    >
+                      <div
+                        className="pf-c-tree-view__content"
+                      >
+                        <GenerateId
+                          prefix="checkbox-id"
+                        >
+                          <button
+                            className="pf-c-tree-view__node"
+                            onClick={[Function]}
+                          >
+                            <div
+                              className="pf-c-tree-view__node-toggle"
+                              onClick={[Function]}
+                            >
+                              <span
+                                className="pf-c-tree-view__node-toggle-icon"
+                              >
+                                <AngleRightIcon
+                                  aria-hidden="true"
+                                  color="currentColor"
+                                  noVerticalAlign={false}
+                                  size="sm"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"
+                                    />
+                                  </svg>
+                                </AngleRightIcon>
+                              </span>
+                            </div>
+                            <span
+                              className="pf-c-tree-view__node-text"
+                            >
+                              Application 1
+                            </span>
+                          </button>
+                        </GenerateId>
+                      </div>
+                    </li>
+                  </TreeViewListItem>
+                  <TreeViewListItem
+                    activeItems={
+                      Array [
                         Object {
                           "children": Array [
                             Object {
@@ -7669,9 +9304,13 @@ exports[`tree view renders search successfully 1`] = `
                                 >
                                   <AngleRightIcon
                                     aria-hidden="true"
-                                    color="currentColor"
-                                    noVerticalAlign={false}
-                                    size="sm"
+                                    aria-labelledby={null}
+                                    className="pf-svg-vertical-align"
+                                    fill="currentColor"
+                                    height="1em"
+                                    role="img"
+                                    viewBox="0 0 256 512"
+                                    width="1em"
                                   >
                                     <svg
                                       aria-hidden="true"
@@ -7786,9 +9425,13 @@ exports[`tree view renders search successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -7894,9 +9537,13 @@ exports[`tree view renders search successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"
@@ -7996,9 +9643,13 @@ exports[`tree view renders search successfully 1`] = `
                       >
                         <AngleRightIcon
                           aria-hidden="true"
-                          color="currentColor"
-                          noVerticalAlign={false}
-                          size="sm"
+                          aria-labelledby={null}
+                          className="pf-svg-vertical-align"
+                          fill="currentColor"
+                          height="1em"
+                          role="img"
+                          viewBox="0 0 256 512"
+                          width="1em"
                         >
                           <svg
                             aria-hidden="true"

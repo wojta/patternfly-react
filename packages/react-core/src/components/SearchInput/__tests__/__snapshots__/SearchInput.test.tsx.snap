@@ -39,10 +39,22 @@ exports[`navigable search results 1`] = `
         role={null}
         type="button"
       >
+<<<<<<< HEAD
         <AngleUpIcon
           color="currentColor"
           noVerticalAlign={false}
           size="sm"
+=======
+        <svg
+          aria-hidden={true}
+          aria-labelledby={null}
+          className="pf-svg-vertical-align"
+          fill="currentColor"
+          height="1em"
+          role="img"
+          viewBox="0 0 320 512"
+          width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
         >
           <svg
             aria-hidden={true}
@@ -91,10 +103,22 @@ exports[`navigable search results 1`] = `
         role={null}
         type="button"
       >
+<<<<<<< HEAD
         <AngleDownIcon
           color="currentColor"
           noVerticalAlign={false}
           size="sm"
+=======
+        <svg
+          aria-hidden={true}
+          aria-labelledby={null}
+          className="pf-svg-vertical-align"
+          fill="currentColor"
+          height="1em"
+          role="img"
+          viewBox="0 0 320 512"
+          width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
         >
           <svg
             aria-hidden={true}

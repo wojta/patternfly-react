@@ -42,9 +42,19 @@ exports[`numberInput disables lower threshold 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -106,9 +116,19 @@ exports[`numberInput disables lower threshold 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -179,9 +199,19 @@ exports[`numberInput disables upper threshold 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -244,9 +274,19 @@ exports[`numberInput disables upper threshold 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -331,9 +371,19 @@ exports[`numberInput passes button props successfully 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -398,9 +448,19 @@ exports[`numberInput passes button props successfully 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -472,9 +532,19 @@ exports[`numberInput passes input props successfully 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -537,9 +607,19 @@ exports[`numberInput passes input props successfully 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -615,9 +695,19 @@ exports[`numberInput renders custom width 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -679,9 +769,19 @@ exports[`numberInput renders custom width 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -753,9 +853,19 @@ exports[`numberInput renders defaults & extra props 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -817,9 +927,19 @@ exports[`numberInput renders defaults & extra props 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -891,9 +1011,19 @@ exports[`numberInput renders disabled 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -957,9 +1087,19 @@ exports[`numberInput renders disabled 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -1036,9 +1176,19 @@ exports[`numberInput renders unit & position 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -1100,9 +1250,19 @@ exports[`numberInput renders unit & position 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -1174,9 +1334,19 @@ exports[`numberInput renders unit 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -1238,9 +1408,19 @@ exports[`numberInput renders unit 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -1315,9 +1495,19 @@ exports[`numberInput renders value 1`] = `
             >
               <MinusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"
@@ -1379,9 +1569,19 @@ exports[`numberInput renders value 1`] = `
             >
               <PlusIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-vertical-align"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                viewBox="0 0 448 512"
+                width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
               >
                 <svg
                   aria-hidden="true"

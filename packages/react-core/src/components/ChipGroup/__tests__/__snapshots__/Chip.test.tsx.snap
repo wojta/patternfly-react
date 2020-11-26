@@ -59,9 +59,19 @@ exports[`Chip closable 1`] = `
           >
             <TimesIcon
               aria-hidden="true"
+<<<<<<< HEAD
               color="currentColor"
               noVerticalAlign={false}
               size="sm"
+=======
+              aria-labelledby={null}
+              className="pf-svg-vertical-align"
+              fill="currentColor"
+              height="1em"
+              role="img"
+              viewBox="0 0 352 512"
+              width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
             >
               <svg
                 aria-hidden="true"
@@ -149,9 +159,19 @@ exports[`Chip closable with tooltip 1`] = `
           >
             <TimesIcon
               aria-hidden="true"
+<<<<<<< HEAD
               color="currentColor"
               noVerticalAlign={false}
               size="sm"
+=======
+              aria-labelledby={null}
+              className="pf-svg-vertical-align"
+              fill="currentColor"
+              height="1em"
+              role="img"
+              viewBox="0 0 352 512"
+              width="1em"
+>>>>>>> SVG vertical-align inline style replaced with class
             >
               <svg
                 aria-hidden="true"
