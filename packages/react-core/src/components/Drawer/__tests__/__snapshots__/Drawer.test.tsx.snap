@@ -90,22 +90,10 @@ exports[`Drawer expands from bottom 1`] = `
                                     role={null}
                                     type="button"
                                   >
-<<<<<<< HEAD
                                     <TimesIcon
                                       color="currentColor"
                                       noVerticalAlign={false}
                                       size="sm"
-=======
-                                    <svg
-                                      aria-hidden={true}
-                                      aria-labelledby={null}
-                                      className="pf-svg-vertical-align"
-                                      fill="currentColor"
-                                      height="1em"
-                                      role="img"
-                                      viewBox="0 0 352 512"
-                                      width="1em"
->>>>>>> SVG vertical-align inline style replaced with class
                                     >
                                       <svg
                                         aria-hidden={true}
@@ -378,10 +366,14 @@ exports[`Drawer has resizable css and color variants 1`] = `
           >
             <div
 <<<<<<< HEAD
+<<<<<<< HEAD
               className="pf-c-drawer__panel pf-m-resizable pf-m-light-200"
 =======
               className="pf-c-drawer__panel"
 >>>>>>> SVG vertical-align inline style replaced with class
+=======
+              className="pf-c-drawer__panel pf-m-resizable"
+>>>>>>> Jest updated
               hidden={false}
               onTransitionEnd={[Function]}
               style={
@@ -396,7 +388,7 @@ exports[`Drawer has resizable css and color variants 1`] = `
                 aria-describedby="Press space to begin resizing, and use the arrow keys to grow or shrink the panel. Press enter or escape to finish resizing."
                 aria-label="Resize"
                 aria-orientation="vertical"
-                className=""
+                className="pf-c-drawer__splitter pf-m-vertical"
                 onKeyDown={[Function]}
                 onMouseDown={[Function]}
                 onTouchStart={[Function]}
@@ -405,7 +397,7 @@ exports[`Drawer has resizable css and color variants 1`] = `
               >
                 <div
                   aria-hidden={true}
-                  className=""
+                  className="pf-c-drawer__splitter-handle"
                 />
               </div>
               <div

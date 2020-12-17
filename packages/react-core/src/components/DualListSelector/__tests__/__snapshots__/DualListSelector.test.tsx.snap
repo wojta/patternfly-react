@@ -2619,12 +2619,12 @@ exports[`DualListSelector with tree 1`] = `
                 <li
                   aria-expanded="true"
                   aria-selected={false}
-                  className="pf-c-dual-list-selector__list-item"
+                  className="pf-c-dual-list-selector__list-item pf-m-expandable pf-m-expanded"
                   id="O1"
                   role="treeitem"
                 >
                   <div
-                    className="pf-c-dual-list-selector__item"
+                    className="pf-c-dual-list-selector__item pf-m-check"
                     onClick={[Function]}
                     tabIndex={-1}
                   >
@@ -2632,11 +2632,11 @@ exports[`DualListSelector with tree 1`] = `
                       className="pf-c-dual-list-selector__item-main"
                     >
                       <div
-                        className=""
+                        className="pf-c-dual-list-selector__item-toggle"
                         onClick={[Function]}
                       >
                         <span
-                          className=""
+                          className="pf-c-dual-list-selector__item-toggle-icon"
                         >
                           <AngleRightIcon
                             aria-hidden={true}
@@ -2662,7 +2662,7 @@ exports[`DualListSelector with tree 1`] = `
                         </span>
                       </div>
                       <span
-                        className=""
+                        className="pf-c-dual-list-selector__item-check"
                       >
                         <input
                           checked={false}
@@ -2756,7 +2756,7 @@ exports[`DualListSelector with tree 1`] = `
                           role="treeitem"
                         >
                           <div
-                            className="pf-c-dual-list-selector__item"
+                            className="pf-c-dual-list-selector__item pf-m-check"
                             onClick={[Function]}
                             tabIndex={-1}
                           >
@@ -2764,7 +2764,7 @@ exports[`DualListSelector with tree 1`] = `
                               className="pf-c-dual-list-selector__item-main"
                             >
                               <span
-                                className=""
+                                className="pf-c-dual-list-selector__item-check"
                               >
                                 <input
                                   checked={false}
@@ -2812,7 +2812,7 @@ exports[`DualListSelector with tree 1`] = `
                   role="treeitem"
                 >
                   <div
-                    className="pf-c-dual-list-selector__item"
+                    className="pf-c-dual-list-selector__item pf-m-check"
                     onClick={[Function]}
                     tabIndex={-1}
                   >
@@ -2820,7 +2820,7 @@ exports[`DualListSelector with tree 1`] = `
                       className="pf-c-dual-list-selector__item-main"
                     >
                       <span
-                        className=""
+                        className="pf-c-dual-list-selector__item-check"
                       >
                         <input
                           checked={false}

@@ -111,10 +111,10 @@ exports[`AccessConsoles switching SerialConsole and VncConsole 1`] = `
                       >
                         <svg
                           aria-hidden="true"
+                          class="pf-svg-vertical-align"
                           fill="currentColor"
                           height="1em"
                           role="img"
-                          style="vertical-align: -0.125em;"
                           viewBox="0 0 320 512"
                           width="1em"
                         >
@@ -161,14 +161,10 @@ exports[`AccessConsoles switching SerialConsole and VncConsole 1`] = `
                     <svg
                       aria-hidden={true}
                       aria-labelledby={null}
+                      className="pf-svg-vertical-align"
                       fill="currentColor"
                       height="1em"
                       role="img"
-                      style={
-                        Object {
-                          "verticalAlign": "-0.125em",
-                        }
-                      }
                       viewBox="0 0 320 512"
                       width="1em"
                     >
@@ -269,14 +265,10 @@ Array [
           <svg
             aria-hidden={true}
             aria-labelledby={null}
+            className="pf-svg-vertical-align"
             fill="currentColor"
             height="1em"
             role="img"
-            style={
-              Object {
-                "verticalAlign": "-0.125em",
-              }
-            }
             viewBox="0 0 512 512"
             width="1em"
           >
