@@ -820,18 +820,15 @@ exports[`Actions virtualized table 1`] = `
                         "cell": [Function],
                         "row": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Tr",
                           "render": [Function],
                         },
                         "wrapper": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Thead",
                           "render": [Function],
                         },
                       },
                       "table": Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "displayName": "TableComposable",
                         "render": [Function],
                       },
                     }
@@ -859,17 +856,23 @@ exports[`Actions virtualized table 1`] = `
                               "row": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Tr",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                               "wrapper": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Thead",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                             }
@@ -1481,7 +1484,7 @@ exports[`Actions virtualized table 1`] = `
                                         data-key={5}
                                         data-label=""
                                         onMouseEnter={[Function]}
-                                        scope=""
+                                        scope={null}
                                       />
                                     </ThBase>
                                   </Th>
@@ -2323,18 +2326,15 @@ exports[`Selectable virtualized table 1`] = `
                         "cell": [Function],
                         "row": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Tr",
                           "render": [Function],
                         },
                         "wrapper": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Thead",
                           "render": [Function],
                         },
                       },
                       "table": Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "displayName": "TableComposable",
                         "render": [Function],
                       },
                     }
@@ -2669,6 +2669,7 @@ exports[`Selectable virtualized table 1`] = `
                           selectVariant="checkbox"
 >>>>>>> SVG vertical-align inline style replaced with class
                         >
+<<<<<<< HEAD
                           <input
                             aria-label="Select all rows"
                             checked={false}
@@ -3001,6 +3002,8 @@ exports[`Selectable virtualized table 1`] = `
                           }
                           rowIndex={0}
                         >
+=======
+>>>>>>> updated jest snapshots
                           <Tr>
                             <TrBase
                               innerRef={null}
@@ -3047,7 +3050,11 @@ exports[`Selectable virtualized table 1`] = `
                                         data-key={0}
                                         data-label=""
                                         onMouseEnter={[Function]}
+<<<<<<< HEAD
                                         scope=""
+=======
+                                        scope={null}
+>>>>>>> updated jest snapshots
                                       >
                                         <SelectColumn
                                           aria-label="Select all rows"
@@ -4410,18 +4417,15 @@ exports[`Simple Actions table 1`] = `
                         "cell": [Function],
                         "row": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Tr",
                           "render": [Function],
                         },
                         "wrapper": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Thead",
                           "render": [Function],
                         },
                       },
                       "table": Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "displayName": "TableComposable",
                         "render": [Function],
                       },
                     }
@@ -4449,17 +4453,23 @@ exports[`Simple Actions table 1`] = `
                               "row": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Tr",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                               "wrapper": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Thead",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                             }
@@ -5185,7 +5195,7 @@ exports[`Simple Actions table 1`] = `
                                         data-key={5}
                                         data-label=""
                                         onMouseEnter={[Function]}
-                                        scope=""
+                                        scope={null}
                                       />
                                     </ThBase>
                                   </Th>
@@ -5923,18 +5933,15 @@ exports[`Simple virtualized table aria-label 1`] = `
                         "cell": [Function],
                         "row": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Tr",
                           "render": [Function],
                         },
                         "wrapper": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Thead",
                           "render": [Function],
                         },
                       },
                       "table": Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "displayName": "TableComposable",
                         "render": [Function],
                       },
                     }
@@ -5962,17 +5969,23 @@ exports[`Simple virtualized table aria-label 1`] = `
                               "row": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Tr",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                               "wrapper": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Thead",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                             }
@@ -7252,18 +7265,15 @@ exports[`Simple virtualized table className 1`] = `
                         "cell": [Function],
                         "row": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Tr",
                           "render": [Function],
                         },
                         "wrapper": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Thead",
                           "render": [Function],
                         },
                       },
                       "table": Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "displayName": "TableComposable",
                         "render": [Function],
                       },
                     }
@@ -7851,12 +7861,10 @@ exports[`Simple virtualized table className 1`] = `
                               "cell": [Function],
                               "row": Object {
                                 "$$typeof": Symbol(react.forward_ref),
-                                "displayName": "Tr",
                                 "render": [Function],
                               },
                               "wrapper": Object {
                                 "$$typeof": Symbol(react.forward_ref),
-                                "displayName": "Thead",
                                 "render": [Function],
                               },
                             }
@@ -9044,18 +9052,15 @@ exports[`Sortable Virtualized Table 1`] = `
                         "cell": [Function],
                         "row": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Tr",
                           "render": [Function],
                         },
                         "wrapper": Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "displayName": "Thead",
                           "render": [Function],
                         },
                       },
                       "table": Object {
                         "$$typeof": Symbol(react.forward_ref),
-                        "displayName": "TableComposable",
                         "render": [Function],
                       },
                     }
@@ -9083,17 +9088,23 @@ exports[`Sortable Virtualized Table 1`] = `
                               "row": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Tr",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                               "wrapper": Object {
                                 "$$typeof": Symbol(react.forward_ref),
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                                 "displayName": "Thead",
 >>>>>>> Jest updated
+=======
+>>>>>>> updated jest snapshots
                                 "render": [Function],
                               },
                             }
