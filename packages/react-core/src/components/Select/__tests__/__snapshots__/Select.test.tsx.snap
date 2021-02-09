@@ -11025,7 +11025,6 @@ exports[`typeahead select renders closed successfully 1`] = `
                     fill="currentColor"
                     height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                     width="1em"
                   >
@@ -11088,11 +11087,6 @@ exports[`typeahead select renders closed successfully 1`] = `
                 fill="currentColor"
                 height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 320 512"
                 width="1em"
               >
@@ -12367,328 +12361,6 @@ exports[`typeahead select renders selected successfully 1`] = `
 </Select>
 `;
 
-exports[`typeahead select test select existing option on a non-creatable select 1`] = `
-<Select
-  aria-label=""
-  aria-labelledby=""
-  chipGroupComponent={null}
-  className=""
-  clearSelectionsAriaLabel="Clear all"
-  createText="Create"
-  customBadgeText={null}
-  customContent={null}
-  direction="down"
-  favorites={Array []}
-  favoritesLabel="Favorites"
-  hasInlineFilter={false}
-  inlineFilterPlaceholderText={null}
-  inputIdPrefix=""
-  isCreatable={false}
-  isDisabled={false}
-  isGrouped={false}
-  isOpen={true}
-  isPlain={false}
-  menuAppendTo="inline"
-  noResultsFoundText="No results found"
-  onClear={[Function]}
-  onCreateOption={[Function]}
-  onFilter={null}
-  onToggle={[MockFunction]}
-  onTypeaheadInputChanged={null}
-  ouiaSafe={true}
-  placeholderText=""
-  removeSelectionAriaLabel="Remove"
-  selections={Array []}
-  toggleAriaLabel="Options menu"
-  toggleIcon={null}
-  toggleId={null}
-  typeAheadAriaLabel=""
-  variant="typeahead"
-  width=""
->
-  <GenerateId
-    prefix="pf-random-id-"
-  >
-    <div
-      className="pf-c-select pf-m-expanded"
-      data-ouia-component-id="OUIA-Generated-Select-typeahead-5"
-      data-ouia-component-type="PF4/Select"
-      data-ouia-safe={true}
-    >
-      <SelectToggle
-        aria-label="Options menu"
-        aria-labelledby=" pf-select-toggle-id-12"
-        className=""
-        handleTypeaheadKeys={[Function]}
-        hasClearButton={false}
-        id="pf-select-toggle-id-12"
-        isActive={false}
-        isDisabled={false}
-        isOpen={true}
-        isPlain={false}
-        menuRef={
-          Object {
-            "current": <ul
-              aria-label=""
-              class="pf-c-select__menu"
-              role="listbox"
-            >
-              <li
-                class="pf-c-select__menu-wrapper"
-                id="option-4"
-                role="presentation"
-              >
-                <button
-                  class="pf-c-select__menu-item"
-                  role="option"
-                  type="button"
-                >
-                  Other
-                </button>
-              </li>
-            </ul>,
-          }
-        }
-        onClickTypeaheadToggleButton={[Function]}
-        onClose={[Function]}
-        onEnter={[Function]}
-        onToggle={[MockFunction]}
-        parentRef={
-          Object {
-            "current": <div
-              class="pf-c-select pf-m-expanded"
-              data-ouia-component-id="OUIA-Generated-Select-typeahead-5"
-              data-ouia-component-type="PF4/Select"
-              data-ouia-safe="true"
-            >
-              <div
-                class="pf-c-select__toggle pf-m-typeahead"
-              >
-                <div
-                  class="pf-c-select__toggle-wrapper"
-                >
-                  <input
-                    aria-label=""
-                    autocomplete="off"
-                    class="pf-c-form-control pf-c-select__toggle-typeahead"
-                    id="pf-select-toggle-id-12-select-typeahead"
-                    placeholder=""
-                    type="text"
-                    value="Oth"
-                  />
-                </div>
-                <button
-                  aria-expanded="true"
-                  aria-haspopup="listbox"
-                  aria-label="Options menu"
-                  aria-labelledby=" pf-select-toggle-id-12"
-                  class="pf-c-button pf-c-select__toggle-button pf-m-plain"
-                  id="pf-select-toggle-id-12"
-                  tabindex="-1"
-                  type="button"
-                >
-                  <svg
-                    aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
-                    fill="currentColor"
-                    height="1em"
-                    role="img"
-                    style="vertical-align: -0.125em;"
-                    viewBox="0 0 320 512"
-                    width="1em"
-                  >
-                    <path
-                      d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
-                    />
-                  </svg>
-                </button>
-              </div>
-              <ul
-                aria-label=""
-                class="pf-c-select__menu"
-                role="listbox"
-              >
-                <li
-                  class="pf-c-select__menu-wrapper"
-                  id="option-4"
-                  role="presentation"
-                >
-                  <button
-                    class="pf-c-select__menu-item"
-                    role="option"
-                    type="button"
-                  >
-                    Other
-                  </button>
-                </li>
-              </ul>
-            </div>,
-          }
-        }
-        type="button"
-        variant="typeahead"
-      >
-        <div
-          className="pf-c-select__toggle pf-m-typeahead"
-          onClick={[Function]}
-          onKeyDown={[Function]}
-        >
-          <div
-            className="pf-c-select__toggle-wrapper"
-          >
-            <input
-              aria-activedescendant={null}
-              aria-label=""
-              autoComplete="off"
-              className="pf-c-form-control pf-c-select__toggle-typeahead"
-              disabled={false}
-              id="pf-select-toggle-id-12-select-typeahead"
-              onChange={[Function]}
-              onClick={[Function]}
-              placeholder=""
-              type="text"
-              value="Oth"
-            />
-          </div>
-          <button
-            aria-expanded={true}
-            aria-haspopup="listbox"
-            aria-label="Options menu"
-            aria-labelledby=" pf-select-toggle-id-12"
-            className="pf-c-button pf-c-select__toggle-button pf-m-plain"
-            disabled={false}
-            id="pf-select-toggle-id-12"
-            onClick={[Function]}
-            tabIndex={-1}
-            type="button"
-          >
-            <CaretDownIcon
-              className="pf-c-select__toggle-arrow"
-              color="currentColor"
-              noVerticalAlign={false}
-              size="sm"
-            >
-              <svg
-                aria-hidden={true}
-                aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
-                fill="currentColor"
-                height="1em"
-                role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
-                viewBox="0 0 320 512"
-                width="1em"
-              >
-                <path
-                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
-                />
-              </svg>
-            </CaretDownIcon>
-          </button>
-        </div>
-      </SelectToggle>
-      <ForwardRef
-        aria-label=""
-        aria-labelledby=""
-        isGrouped={false}
-        keyHandler={[Function]}
-        openedOnEnter={false}
-        sendRef={[Function]}
-      >
-        <SelectMenu
-          aria-label=""
-          aria-labelledby=""
-          className=""
-          hasInlineFilter={false}
-          innerRef={
-            Object {
-              "current": <ul
-                aria-label=""
-                class="pf-c-select__menu"
-                role="listbox"
-              >
-                <li
-                  class="pf-c-select__menu-wrapper"
-                  id="option-4"
-                  role="presentation"
-                >
-                  <button
-                    class="pf-c-select__menu-item"
-                    role="option"
-                    type="button"
-                  >
-                    Other
-                  </button>
-                </li>
-              </ul>,
-            }
-          }
-          isCustomContent={false}
-          isExpanded={false}
-          isGrouped={false}
-          keyHandler={[Function]}
-          maxHeight=""
-          openedOnEnter={false}
-          selected=""
-          sendRef={[Function]}
-        >
-          <ul
-            aria-label=""
-            aria-labelledby={null}
-            className="pf-c-select__menu"
-            role="listbox"
-          >
-            <SelectOption
-              className=""
-              component="button"
-              id="option-4"
-              index={0}
-              inputId="pf-random-id-19-0"
-              isChecked={false}
-              isDisabled={false}
-              isFavorite={null}
-              isFocused={null}
-              isNoResultsOption={false}
-              isPlaceholder={false}
-              isSelected={false}
-              key=".$.$03"
-              keyHandler={[Function]}
-              onClick={[Function]}
-              sendRef={[Function]}
-              value="Other"
-            >
-              <li
-                className="pf-c-select__menu-wrapper"
-                id="option-4"
-                role="presentation"
-              >
-                <button
-                  aria-selected={null}
-                  className="pf-c-select__menu-item"
-                  onClick={[Function]}
-                  onKeyDown={[Function]}
-                  role="option"
-                  type="button"
-                >
-                  Create
-                   "
-                  test
-                  "
-                </button>
-              </li>
-            </SelectOption>
-          </ul>
-        </SelectMenu>
-      </ForwardRef>
-    </div>
-  </GenerateId>
-</Select>
-`;
-
 exports[`typeahead select test onChange 1`] = `
 <Select
   aria-label=""
@@ -13084,6 +12756,7 @@ exports[`typeahead select test select existing option on a non-creatable select 
   onCreateOption={[Function]}
   onFilter={null}
   onToggle={[MockFunction]}
+  onTypeaheadInputChanged={null}
   ouiaSafe={true}
   placeholderText=""
   removeSelectionAriaLabel="Remove"
@@ -13107,7 +12780,7 @@ exports[`typeahead select test select existing option on a non-creatable select 
     >
       <SelectToggle
         aria-label="Options menu"
-        aria-labelledby=" pf-select-toggle-id-11"
+        aria-labelledby=" pf-select-toggle-id-12"
         className=""
         handleTypeaheadKeys={[Function]}
         hasClearButton={false}
@@ -13162,7 +12835,7 @@ exports[`typeahead select test select existing option on a non-creatable select 
                     aria-label=""
                     autocomplete="off"
                     class="pf-c-form-control pf-c-select__toggle-typeahead"
-                    id="pf-select-toggle-id-11-select-typeahead"
+                    id="pf-select-toggle-id-12-select-typeahead"
                     placeholder=""
                     type="text"
                     value="Oth"
@@ -13172,9 +12845,9 @@ exports[`typeahead select test select existing option on a non-creatable select 
                   aria-expanded="true"
                   aria-haspopup="listbox"
                   aria-label="Options menu"
-                  aria-labelledby=" pf-select-toggle-id-11"
+                  aria-labelledby=" pf-select-toggle-id-12"
                   class="pf-c-button pf-c-select__toggle-button pf-m-plain"
-                  id="pf-select-toggle-id-11"
+                  id="pf-select-toggle-id-12"
                   tabindex="-1"
                   type="button"
                 >
@@ -13232,7 +12905,7 @@ exports[`typeahead select test select existing option on a non-creatable select 
               autoComplete="off"
               className="pf-c-form-control pf-c-select__toggle-typeahead"
               disabled={false}
-              id="pf-select-toggle-id-11-select-typeahead"
+              id="pf-select-toggle-id-12-select-typeahead"
               onChange={[Function]}
               onClick={[Function]}
               placeholder=""
@@ -13244,10 +12917,10 @@ exports[`typeahead select test select existing option on a non-creatable select 
             aria-expanded={true}
             aria-haspopup="listbox"
             aria-label="Options menu"
-            aria-labelledby=" pf-select-toggle-id-11"
+            aria-labelledby=" pf-select-toggle-id-12"
             className="pf-c-button pf-c-select__toggle-button pf-m-plain"
             disabled={false}
-            id="pf-select-toggle-id-11"
+            id="pf-select-toggle-id-12"
             onClick={[Function]}
             tabIndex={-1}
             type="button"

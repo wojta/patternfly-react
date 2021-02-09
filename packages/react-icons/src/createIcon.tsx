@@ -1,5 +1,4 @@
 import * as React from 'react';
-import { css } from '@patternfly/react-styles';
 
 export enum IconSize {
   sm = 'sm',
@@ -63,15 +62,15 @@ export function createIcon({
     id = `icon-title-${currentId++}`;
 
     render() {
-      const { size, color, title, noVerticalAlign, ...props } = this.props;
+      const { size, color, title, noVerticalAlign, className, ...props } = this.props;
 
       const hasTitle = Boolean(title);
       const heightWidth = getSize(size);
       const viewBox = [xOffset, yOffset, width, height].join(' ');
-
+      const classes = [className, noVerticalAlign ? '' : 'pf-svg-vertical-align'].filter(t => t);
       return (
         <svg
-          className={noVerticalAlign ? undefined : css('pf-svg-vertical-align')}
+          className={classes.length > 0 ? classes.join(' ') : undefined}
           fill={color}
           height={heightWidth}
           width={heightWidth}
