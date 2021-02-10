@@ -67,7 +67,7 @@ export function createIcon({
       const hasTitle = Boolean(title);
       const heightWidth = getSize(size);
       const viewBox = [xOffset, yOffset, width, height].join(' ');
-      const classes = [className, noVerticalAlign ? '' : 'pf-svg-vertical-align'].filter(t => t);
+      const classes: String[] = [className, noVerticalAlign ? '' : 'pf-svg-vertical-align'].filter(t => t);
       return (
         <svg
           className={classes.length > 0 ? classes.join(' ') : undefined}

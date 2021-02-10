@@ -2825,7 +2825,7 @@ exports[`checkbox select renders expanded with filtering successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -2953,7 +2953,7 @@ exports[`checkbox select renders expanded with filtering successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -3457,7 +3457,7 @@ exports[`checkbox select renders expanded with filtering successfully 2`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -3585,7 +3585,7 @@ exports[`checkbox select renders expanded with filtering successfully 2`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -5810,7 +5810,7 @@ exports[`select custom select filter filters properly 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -5917,7 +5917,7 @@ exports[`select custom select filter filters properly 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -9206,7 +9206,7 @@ exports[`typeahead multi select renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -9269,7 +9269,7 @@ exports[`typeahead multi select renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -9457,7 +9457,7 @@ exports[`typeahead multi select renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -9578,7 +9578,7 @@ exports[`typeahead multi select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -10164,7 +10164,7 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -10539,7 +10539,7 @@ exports[`typeahead multi select renders selected successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -11021,7 +11021,7 @@ exports[`typeahead select renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -11083,7 +11083,7 @@ exports[`typeahead select renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -11270,7 +11270,7 @@ exports[`typeahead select renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -11332,7 +11332,7 @@ exports[`typeahead select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -11479,7 +11479,7 @@ exports[`typeahead select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
@@ -11922,7 +11922,7 @@ exports[`typeahead select renders selected successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -12497,7 +12497,7 @@ exports[`typeahead select test onChange 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
                     fill="currentColor"
                     height="1em"
                     role="img"
@@ -12613,7 +12613,7 @@ exports[`typeahead select test onChange 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
                 fill="currentColor"
                 height="1em"
                 role="img"
