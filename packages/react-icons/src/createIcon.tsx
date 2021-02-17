@@ -7,18 +7,18 @@ export enum IconSize {
   xl = 'xl'
 }
 
-export const getSize = (size: IconSize | keyof typeof IconSize) => {
+export const getSizeClass = (size: IconSize | keyof typeof IconSize) => {
   switch (size) {
     case IconSize.sm:
-      return '1em';
+      return 'pf-svg-size-sm';
     case IconSize.md:
-      return '1.5em';
+      return 'pf-svg-size-md';
     case IconSize.lg:
-      return '2em';
+      return 'pf-svg-size-lg';
     case IconSize.xl:
-      return '3em';
+      return 'pf-svg-size-xl';
     default:
-      return '1em';
+      return 'pf-svg-size-sm';
   }
 };
 
@@ -65,15 +65,13 @@ export function createIcon({
       const { size, color, title, noVerticalAlign, className, ...props } = this.props;
 
       const hasTitle = Boolean(title);
-      const heightWidth = getSize(size);
       const viewBox = [xOffset, yOffset, width, height].join(' ');
-      const classes: String[] = [className, noVerticalAlign ? '' : 'pf-svg-vertical-align'].filter(t => t);
+      const classes: String[] = [className, noVerticalAlign ? '' : getSizeClass(size)].filter(t => t);
+
       return (
         <svg
           className={classes.length > 0 ? classes.join(' ') : undefined}
           fill={color}
-          height={heightWidth}
-          width={heightWidth}
           viewBox={viewBox}
           aria-labelledby={hasTitle ? this.id : null}
           aria-hidden={hasTitle ? null : true}
