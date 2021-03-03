@@ -92,9 +92,17 @@ exports[`ChipGroup chip group default 1`] = `
                       >
                         <TimesIcon
                           aria-hidden="true"
+<<<<<<< HEAD
                           color="currentColor"
                           noVerticalAlign={false}
                           size="sm"
+=======
+                          aria-labelledby={null}
+                          className="pf-svg-size-sm"
+                          fill="currentColor"
+                          role="img"
+                          viewBox="0 0 352 512"
+>>>>>>> jest updated
                         >
                           <svg
                             aria-hidden="true"
@@ -228,9 +236,17 @@ exports[`ChipGroup chip group with category 1`] = `
                       >
                         <TimesIcon
                           aria-hidden="true"
+<<<<<<< HEAD
                           color="currentColor"
                           noVerticalAlign={false}
                           size="sm"
+=======
+                          aria-labelledby={null}
+                          className="pf-svg-size-sm"
+                          fill="currentColor"
+                          role="img"
+                          viewBox="0 0 352 512"
+>>>>>>> jest updated
                         >
                           <svg
                             aria-hidden="true"
@@ -364,9 +380,17 @@ exports[`ChipGroup chip group with category and tooltip 1`] = `
                       >
                         <TimesIcon
                           aria-hidden="true"
+<<<<<<< HEAD
                           color="currentColor"
                           noVerticalAlign={false}
                           size="sm"
+=======
+                          aria-labelledby={null}
+                          className="pf-svg-size-sm"
+                          fill="currentColor"
+                          role="img"
+                          viewBox="0 0 352 512"
+>>>>>>> jest updated
                         >
                           <svg
                             aria-hidden="true"
@@ -500,9 +524,17 @@ exports[`ChipGroup chip group with closable category 1`] = `
                       >
                         <TimesIcon
                           aria-hidden="true"
+<<<<<<< HEAD
                           color="currentColor"
                           noVerticalAlign={false}
                           size="sm"
+=======
+                          aria-labelledby={null}
+                          className="pf-svg-size-sm"
+                          fill="currentColor"
+                          role="img"
+                          viewBox="0 0 352 512"
+>>>>>>> jest updated
                         >
                           <svg
                             aria-hidden="true"
@@ -568,9 +600,17 @@ exports[`ChipGroup chip group with closable category 1`] = `
             >
               <TimesCircleIcon
                 aria-hidden="true"
+<<<<<<< HEAD
                 color="currentColor"
                 noVerticalAlign={false}
                 size="sm"
+=======
+                aria-labelledby={null}
+                className="pf-svg-size-sm"
+                fill="currentColor"
+                role="img"
+                viewBox="0 0 512 512"
+>>>>>>> jest updated
               >
                 <svg
                   aria-hidden="true"

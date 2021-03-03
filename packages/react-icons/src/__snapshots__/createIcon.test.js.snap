@@ -4,13 +4,11 @@ exports[`additional props should be spread to the root svg element 1`] = `
 <svg
   aria-hidden={true}
   aria-labelledby={null}
-  className="pf-svg-vertical-align"
+  className="pf-svg-size-sm"
   data-testid="icon"
   fill="currentColor"
-  height="1em"
   role="img"
   viewBox="0 0 10 20"
-  width="1em"
 >
   <path
     d="svgPath"
@@ -18,6 +16,6 @@ exports[`additional props should be spread to the root svg element 1`] = `
 </svg>
 `;
 
-exports[`height and width are set from size: height 1`] = `"1em"`;
+exports[`height and width are set from size: height 1`] = `undefined`;
 
-exports[`height and width are set from size: width 1`] = `"1em"`;
+exports[`height and width are set from size: width 1`] = `undefined`;

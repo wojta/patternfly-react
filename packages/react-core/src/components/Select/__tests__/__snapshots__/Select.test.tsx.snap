@@ -1149,12 +1149,10 @@ exports[`checkbox select renders checkbox select selections properly 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1206,12 +1204,10 @@ exports[`checkbox select renders checkbox select selections properly 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1349,12 +1345,10 @@ exports[`checkbox select renders checkbox select selections properly when isChec
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1397,12 +1391,10 @@ exports[`checkbox select renders checkbox select selections properly when isChec
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1518,12 +1510,10 @@ exports[`checkbox select renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1566,12 +1556,10 @@ exports[`checkbox select renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1749,11 +1737,9 @@ exports[`checkbox select renders expanded successfully 1`] = `
                   <svg
                     aria-hidden="true"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1858,12 +1844,10 @@ exports[`checkbox select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -2293,12 +2277,10 @@ exports[`checkbox select renders expanded successfully with custom objects 1`] =
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -2389,12 +2371,10 @@ exports[`checkbox select renders expanded successfully with custom objects 1`] =
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -2825,12 +2805,10 @@ exports[`checkbox select renders expanded with filtering successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -2953,12 +2931,10 @@ exports[`checkbox select renders expanded with filtering successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -3457,12 +3433,10 @@ exports[`checkbox select renders expanded with filtering successfully 2`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -3585,12 +3559,10 @@ exports[`checkbox select renders expanded with filtering successfully 2`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -4020,12 +3992,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4055,12 +4025,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4090,12 +4058,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4125,12 +4091,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4175,12 +4139,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4210,12 +4172,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4245,12 +4205,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4280,12 +4238,10 @@ exports[`renders select with favorites successfully 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="pf-svg-vertical-align"
+                          class="pf-svg-size-sm"
                           fill="currentColor"
-                          height="1em"
                           role="img"
                           viewBox="0 0 576 512"
-                          width="1em"
                         >
                           <path
                             d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4331,12 +4287,10 @@ exports[`renders select with favorites successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -4381,12 +4335,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4416,12 +4368,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4451,12 +4401,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4486,12 +4434,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4536,12 +4482,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4571,12 +4515,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4606,12 +4548,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4641,12 +4581,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4693,12 +4631,10 @@ exports[`renders select with favorites successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -4771,12 +4707,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4806,12 +4740,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4841,12 +4773,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4876,12 +4806,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4926,12 +4854,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4961,12 +4887,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -4996,12 +4920,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5031,12 +4953,10 @@ exports[`renders select with favorites successfully 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="pf-svg-vertical-align"
+                            class="pf-svg-size-sm"
                             fill="currentColor"
-                            height="1em"
                             role="img"
                             viewBox="0 0 576 512"
-                            width="1em"
                           >
                             <path
                               d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5132,12 +5052,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5200,12 +5118,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5268,12 +5184,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5336,12 +5250,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5425,12 +5337,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5493,12 +5403,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5561,12 +5469,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5629,12 +5535,10 @@ exports[`renders select with favorites successfully 1`] = `
                             <svg
                               aria-hidden={true}
                               aria-labelledby={null}
-                              className="pf-svg-vertical-align"
+                              className="pf-svg-size-sm"
                               fill="currentColor"
-                              height="1em"
                               role="img"
                               viewBox="0 0 576 512"
-                              width="1em"
                             >
                               <path
                                 d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
@@ -5810,12 +5714,10 @@ exports[`select custom select filter filters properly 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -5917,12 +5819,10 @@ exports[`select custom select filter filters properly 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -6380,12 +6280,10 @@ exports[`select renders select groups successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -6566,12 +6464,10 @@ exports[`select renders select groups successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7209,12 +7105,10 @@ exports[`select renders up direction successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7259,12 +7153,10 @@ exports[`select renders up direction successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7383,12 +7275,10 @@ exports[`select single select renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7433,12 +7323,10 @@ exports[`select single select renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7558,12 +7446,10 @@ exports[`select single select renders disabled successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7608,12 +7494,10 @@ exports[`select single select renders disabled successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7789,12 +7673,10 @@ exports[`select single select renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -7897,12 +7779,10 @@ exports[`select single select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -8317,12 +8197,10 @@ exports[`select single select renders expanded successfully with custom objects 
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -8412,12 +8290,10 @@ exports[`select single select renders expanded successfully with custom objects 
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -8759,12 +8635,10 @@ exports[`select with custom content renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -8807,12 +8681,10 @@ exports[`select with custom content renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -8932,12 +8804,10 @@ exports[`select with custom content renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-svg-vertical-align"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -8985,12 +8855,10 @@ exports[`select with custom content renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-svg-vertical-align"
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -9206,12 +9074,10 @@ exports[`typeahead multi select renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -9269,12 +9135,10 @@ exports[`typeahead multi select renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -9457,12 +9321,10 @@ exports[`typeahead multi select renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -9578,12 +9440,10 @@ exports[`typeahead multi select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -9948,12 +9808,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                   >
                     <svg
                       aria-hidden="true"
-                      class="pf-svg-vertical-align"
+                      class="pf-svg-size-sm"
                       fill="currentColor"
-                      height="1em"
                       role="img"
                       viewBox="0 0 512 512"
-                      width="1em"
                     >
                       <path
                         d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -9979,12 +9837,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                   >
                     <svg
                       aria-hidden="true"
-                      class="pf-svg-vertical-align"
+                      class="pf-svg-size-sm"
                       fill="currentColor"
-                      height="1em"
                       role="img"
                       viewBox="0 0 512 512"
-                      width="1em"
                     >
                       <path
                         d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -10082,12 +9938,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
-                                class="pf-svg-vertical-align"
+                                class="pf-svg-size-sm"
                                 fill="currentColor"
-                                height="1em"
                                 role="img"
                                 viewBox="0 0 352 512"
-                                width="1em"
                               >
                                 <path
                                   d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
@@ -10124,12 +9978,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                             >
                               <svg
                                 aria-hidden="true"
-                                class="pf-svg-vertical-align"
+                                class="pf-svg-size-sm"
                                 fill="currentColor"
-                                height="1em"
                                 role="img"
                                 viewBox="0 0 352 512"
-                                width="1em"
                               >
                                 <path
                                   d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
@@ -10164,12 +10016,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -10199,12 +10049,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        class="pf-svg-vertical-align"
+                        class="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -10230,12 +10078,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        class="pf-svg-vertical-align"
+                        class="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -10539,12 +10385,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -10607,12 +10451,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        class="pf-svg-vertical-align"
+                        class="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -10638,12 +10480,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        class="pf-svg-vertical-align"
+                        class="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -10748,12 +10588,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
-                        className="pf-svg-vertical-align"
+                        className="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -10811,12 +10649,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
-                        className="pf-svg-vertical-align"
+                        className="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -11021,12 +10857,10 @@ exports[`typeahead select renders closed successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -11083,12 +10917,10 @@ exports[`typeahead select renders closed successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -11270,12 +11102,10 @@ exports[`typeahead select renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -11479,12 +11309,10 @@ exports[`typeahead select renders expanded successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -11826,12 +11654,10 @@ exports[`typeahead select renders selected successfully 1`] = `
                   >
                     <svg
                       aria-hidden="true"
-                      class="pf-svg-vertical-align"
+                      class="pf-svg-size-sm"
                       fill="currentColor"
-                      height="1em"
                       role="img"
                       viewBox="0 0 512 512"
-                      width="1em"
                     >
                       <path
                         d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -11922,12 +11748,10 @@ exports[`typeahead select renders selected successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow pf-svg-vertical-align"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -11957,12 +11781,10 @@ exports[`typeahead select renders selected successfully 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        class="pf-svg-vertical-align"
+                        class="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -12062,10 +11884,8 @@ exports[`typeahead select renders selected successfully 1`] = `
                 aria-labelledby={null}
                 className="pf-c-select__toggle-arrow"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -12113,12 +11933,10 @@ exports[`typeahead select renders selected successfully 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        class="pf-svg-vertical-align"
+                        class="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -12229,12 +12047,10 @@ exports[`typeahead select renders selected successfully 1`] = `
                       <svg
                         aria-hidden={true}
                         aria-labelledby={null}
-                        className="pf-svg-vertical-align"
+                        className="pf-svg-size-sm"
                         fill="currentColor"
-                        height="1em"
                         role="img"
                         viewBox="0 0 512 512"
-                        width="1em"
                       >
                         <path
                           d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
@@ -12855,10 +12671,8 @@ exports[`typeahead select test select existing option on a non-creatable select 
                     aria-hidden="true"
                     class="pf-c-select__toggle-arrow"
                     fill="currentColor"
-                    height="1em"
                     role="img"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -12936,7 +12750,6 @@ exports[`typeahead select test select existing option on a non-creatable select 
                 aria-labelledby={null}
                 className="pf-c-select__toggle-arrow"
                 fill="currentColor"
-                height="1em"
                 role="img"
                 style={
                   Object {
@@ -12944,7 +12757,6 @@ exports[`typeahead select test select existing option on a non-creatable select 
                   }
                 }
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"

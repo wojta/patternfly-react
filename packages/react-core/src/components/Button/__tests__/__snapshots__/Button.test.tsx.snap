@@ -439,10 +439,20 @@ exports[`link with icon 1`] = `
       <span
         className="pf-c-button__icon pf-m-start"
       >
+<<<<<<< HEAD
         <CartArrowDownIcon
           color="currentColor"
           noVerticalAlign={false}
           size="sm"
+=======
+        <svg
+          aria-hidden={true}
+          aria-labelledby={null}
+          className="pf-svg-size-sm"
+          fill="currentColor"
+          role="img"
+          viewBox="0 0 576 512"
+>>>>>>> jest updated
         >
           <svg
             aria-hidden={true}

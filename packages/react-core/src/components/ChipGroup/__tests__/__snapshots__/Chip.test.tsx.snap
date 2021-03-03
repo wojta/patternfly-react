@@ -65,13 +65,15 @@ exports[`Chip closable 1`] = `
               size="sm"
 =======
               aria-labelledby={null}
-              className="pf-svg-vertical-align"
+              className="pf-svg-size-sm"
               fill="currentColor"
-              height="1em"
               role="img"
               viewBox="0 0 352 512"
+<<<<<<< HEAD
               width="1em"
 >>>>>>> SVG vertical-align inline style replaced with class
+=======
+>>>>>>> jest updated
             >
               <svg
                 aria-hidden="true"
@@ -165,13 +167,15 @@ exports[`Chip closable with tooltip 1`] = `
               size="sm"
 =======
               aria-labelledby={null}
-              className="pf-svg-vertical-align"
+              className="pf-svg-size-sm"
               fill="currentColor"
-              height="1em"
               role="img"
               viewBox="0 0 352 512"
+<<<<<<< HEAD
               width="1em"
 >>>>>>> SVG vertical-align inline style replaced with class
+=======
+>>>>>>> jest updated
             >
               <svg
                 aria-hidden="true"
