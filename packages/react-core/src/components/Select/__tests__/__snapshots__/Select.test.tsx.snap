@@ -248,12 +248,10 @@ exports[`checkbox select renders checkbox select groups successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
-                    height="1em"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
-                    width="1em"
                   >
                     <path
                       d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -444,16 +442,10 @@ exports[`checkbox select renders checkbox select groups successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
+                className="pf-svg-size-sm"
                 fill="currentColor"
-                height="1em"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 320 512"
-                width="1em"
               >
                 <path
                   d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
@@ -1736,9 +1728,9 @@ exports[`checkbox select renders expanded successfully 1`] = `
                 >
                   <svg
                     aria-hidden="true"
+                    class="pf-svg-size-sm"
                     fill="currentColor"
                     role="img"
-                    style="vertical-align: -0.125em;"
                     viewBox="0 0 320 512"
                   >
                     <path
@@ -10229,16 +10221,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                                       <svg
                                         aria-hidden="true"
                                         aria-labelledby={null}
+                                        className="pf-svg-size-sm"
                                         fill="currentColor"
-                                        height="1em"
                                         role="img"
-                                        style={
-                                          Object {
-                                            "verticalAlign": "-0.125em",
-                                          }
-                                        }
                                         viewBox="0 0 352 512"
-                                        width="1em"
                                       >
                                         <path
                                           d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
@@ -10321,16 +10307,10 @@ exports[`typeahead multi select renders selected successfully 1`] = `
                                       <svg
                                         aria-hidden="true"
                                         aria-labelledby={null}
+                                        className="pf-svg-size-sm"
                                         fill="currentColor"
-                                        height="1em"
                                         role="img"
-                                        style={
-                                          Object {
-                                            "verticalAlign": "-0.125em",
-                                          }
-                                        }
                                         viewBox="0 0 352 512"
-                                        width="1em"
                                       >
                                         <path
                                           d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
@@ -11094,9 +11074,9 @@ exports[`typeahead select renders expanded successfully 1`] = `
                   aria-expanded="true"
                   aria-haspopup="listbox"
                   aria-label="Options menu"
-                  aria-labelledby=" typeahead-select-closed"
+                  aria-labelledby=" pf-select-toggle-id-8"
                   class="pf-c-button pf-c-select__toggle-button pf-m-plain"
-                  id="typeahead-select-closed"
+                  id="pf-select-toggle-id-8"
                   tabindex="-1"
                   type="button"
                 >
@@ -11113,96 +11093,7 @@ exports[`typeahead select renders expanded successfully 1`] = `
                   </svg>
                 </button>
               </div>
-            </div>,
-          }
-        }
-        type="button"
-        variant="typeahead"
-      >
-        <div
-          className="pf-c-select__toggle pf-m-typeahead"
-          onClick={[Function]}
-          onKeyDown={[Function]}
-        >
-          <div
-            className="pf-c-select__toggle-wrapper"
-          >
-            <input
-              aria-activedescendant={null}
-              aria-label=""
-              autoComplete="off"
-              className="pf-c-form-control pf-c-select__toggle-typeahead"
-              disabled={false}
-              id="typeahead-select-closed-select-typeahead"
-              onChange={[Function]}
-              onClick={[Function]}
-              placeholder=""
-              type="text"
-              value=""
-            />
-          </div>
-          <button
-            aria-expanded={false}
-            aria-haspopup="listbox"
-            aria-label="Options menu"
-            aria-labelledby=" typeahead-select-closed"
-            className="pf-c-button pf-c-select__toggle-button pf-m-plain"
-            disabled={false}
-            id="typeahead-select-closed"
-            onClick={[Function]}
-            tabIndex={-1}
-            type="button"
-          >
-            <CaretDownIcon
-              className="pf-c-select__toggle-arrow"
-              color="currentColor"
-              noVerticalAlign={false}
-              size="sm"
-            >
-              <svg
-                aria-hidden={true}
-                aria-labelledby={null}
-                className="pf-c-select__toggle-arrow pf-svg-vertical-align"
-                fill="currentColor"
-                height="1em"
-                role="img"
-                viewBox="0 0 320 512"
-                width="1em"
-              >
-                <path
-                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
-                />
-              </svg>
-            </CaretDownIcon>
-          </button>
-        </div>
-      </SelectToggle>
-      <ForwardRef
-        aria-label=""
-        aria-labelledby=""
-        footerRef={
-          Object {
-            "current": null,
-          }
-        }
-        isGrouped={false}
-        keyHandler={[Function]}
-        openedOnEnter={false}
-        sendRef={[Function]}
-      >
-        <SelectMenu
-          aria-label=""
-          aria-labelledby=""
-          className=""
-          footerRef={
-            Object {
-              "current": null,
-            }
-          }
-          hasInlineFilter={false}
-          innerRef={
-            Object {
-              "current": <ul
+              <ul
                 aria-label=""
                 class="pf-c-select__menu"
                 role="listbox"
@@ -11325,6 +11216,11 @@ exports[`typeahead select renders expanded successfully 1`] = `
       <ForwardRef
         aria-label=""
         aria-labelledby=""
+        footerRef={
+          Object {
+            "current": null,
+          }
+        }
         isGrouped={false}
         keyHandler={[Function]}
         openedOnEnter={false}
@@ -11334,6 +11230,11 @@ exports[`typeahead select renders expanded successfully 1`] = `
           aria-label=""
           aria-labelledby=""
           className=""
+          footerRef={
+            Object {
+              "current": null,
+            }
+          }
           hasInlineFilter={false}
           innerRef={
             Object {
@@ -11536,6 +11437,8 @@ exports[`typeahead select renders expanded successfully 1`] = `
               isDisabled={false}
               isFavorite={null}
               isFocused={null}
+              isLoad={false}
+              isLoading={false}
               isNoResultsOption={false}
               isPlaceholder={false}
               isSelected={false}
@@ -11572,6 +11475,8 @@ exports[`typeahead select renders expanded successfully 1`] = `
 
 exports[`typeahead select renders selected successfully 1`] = `
 <Select
+  aria-describedby=""
+  aria-invalid={false}
   aria-label=""
   aria-labelledby=""
   chipGroupComponent={null}
@@ -11589,6 +11494,7 @@ exports[`typeahead select renders selected successfully 1`] = `
   isCreatable={false}
   isDisabled={false}
   isGrouped={false}
+  isInputValuePersisted={false}
   isOpen={true}
   isPlain={false}
   menuAppendTo="inline"
@@ -11607,6 +11513,7 @@ exports[`typeahead select renders selected successfully 1`] = `
   toggleIcon={null}
   toggleId={null}
   typeAheadAriaLabel=""
+  validated="default"
   variant="typeahead"
   width=""
 >
@@ -11625,6 +11532,7 @@ exports[`typeahead select renders selected successfully 1`] = `
         className=""
         handleTypeaheadKeys={[Function]}
         hasClearButton={false}
+        hasFooter={false}
         id="pf-select-toggle-id-9"
         isActive={false}
         isDisabled={false}
@@ -11711,7 +11619,7 @@ exports[`typeahead select renders selected successfully 1`] = `
         onClickTypeaheadToggleButton={[Function]}
         onClose={[Function]}
         onEnter={[Function]}
-        onToggle={[MockFunction]}
+        onToggle={[Function]}
         parentRef={
           Object {
             "current": <div
@@ -11882,7 +11790,7 @@ exports[`typeahead select renders selected successfully 1`] = `
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
                 role="img"
                 viewBox="0 0 320 512"
@@ -11898,6 +11806,11 @@ exports[`typeahead select renders selected successfully 1`] = `
       <ForwardRef
         aria-label=""
         aria-labelledby=""
+        footerRef={
+          Object {
+            "current": null,
+          }
+        }
         isGrouped={false}
         keyHandler={[Function]}
         openedOnEnter={false}
@@ -11908,6 +11821,11 @@ exports[`typeahead select renders selected successfully 1`] = `
           aria-label=""
           aria-labelledby=""
           className=""
+          footerRef={
+            Object {
+              "current": null,
+            }
+          }
           hasInlineFilter={false}
           innerRef={
             Object {
@@ -12012,6 +11930,8 @@ exports[`typeahead select renders selected successfully 1`] = `
               isDisabled={false}
               isFavorite={null}
               isFocused={null}
+              isLoad={false}
+              isLoading={false}
               isNoResultsOption={false}
               isPlaceholder={false}
               isSelected={true}
@@ -12071,6 +11991,8 @@ exports[`typeahead select renders selected successfully 1`] = `
               isDisabled={false}
               isFavorite={null}
               isFocused={null}
+              isLoad={false}
+              isLoading={false}
               isNoResultsOption={false}
               isPlaceholder={false}
               isSelected={false}
@@ -12107,6 +12029,8 @@ exports[`typeahead select renders selected successfully 1`] = `
               isDisabled={false}
               isFavorite={null}
               isFocused={null}
+              isLoad={false}
+              isLoading={false}
               isNoResultsOption={false}
               isPlaceholder={false}
               isSelected={false}
@@ -12143,6 +12067,8 @@ exports[`typeahead select renders selected successfully 1`] = `
               isDisabled={false}
               isFavorite={null}
               isFocused={null}
+              isLoad={false}
+              isLoading={false}
               isNoResultsOption={false}
               isPlaceholder={false}
               isSelected={false}
@@ -12601,7 +12527,7 @@ exports[`typeahead select test select existing option on a non-creatable select 
         handleTypeaheadKeys={[Function]}
         hasClearButton={false}
         hasFooter={false}
-        id="pf-select-toggle-id-9"
+        id="pf-select-toggle-id-12"
         isActive={false}
         isDisabled={false}
         isOpen={true}
@@ -12669,7 +12595,7 @@ exports[`typeahead select test select existing option on a non-creatable select 
                 >
                   <svg
                     aria-hidden="true"
-                    class="pf-c-select__toggle-arrow"
+                    class="pf-c-select__toggle-arrow pf-svg-size-sm"
                     fill="currentColor"
                     role="img"
                     viewBox="0 0 320 512"
@@ -12748,14 +12674,9 @@ exports[`typeahead select test select existing option on a non-creatable select 
               <svg
                 aria-hidden={true}
                 aria-labelledby={null}
-                className="pf-c-select__toggle-arrow"
+                className="pf-c-select__toggle-arrow pf-svg-size-sm"
                 fill="currentColor"
                 role="img"
-                style={
-                  Object {
-                    "verticalAlign": "-0.125em",
-                  }
-                }
                 viewBox="0 0 320 512"
               >
                 <path
@@ -12777,7 +12698,6 @@ exports[`typeahead select test select existing option on a non-creatable select 
         isGrouped={false}
         keyHandler={[Function]}
         openedOnEnter={false}
-        selected="Mr"
         sendRef={[Function]}
       >
         <SelectMenu
@@ -12797,63 +12717,6 @@ exports[`typeahead select test select existing option on a non-creatable select 
                 class="pf-c-select__menu"
                 role="listbox"
               >
-                <li
-                  class="pf-c-select__menu-wrapper"
-                  id="option-1"
-                  role="presentation"
-                >
-                  <button
-                    aria-selected="true"
-                    class="pf-c-select__menu-item pf-m-selected"
-                    role="option"
-                    type="button"
-                  >
-                    Mr
-                    <span
-                      class="pf-c-select__menu-item-icon"
-                    >
-                      <svg
-                        aria-hidden="true"
-                        fill="currentColor"
-                        height="1em"
-                        role="img"
-                        style="vertical-align: -0.125em;"
-                        viewBox="0 0 512 512"
-                        width="1em"
-                      >
-                        <path
-                          d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
-                        />
-                      </svg>
-                    </span>
-                  </button>
-                </li>
-                <li
-                  class="pf-c-select__menu-wrapper"
-                  id="option-2"
-                  role="presentation"
-                >
-                  <button
-                    class="pf-c-select__menu-item"
-                    role="option"
-                    type="button"
-                  >
-                    Mrs
-                  </button>
-                </li>
-                <li
-                  class="pf-c-select__menu-wrapper"
-                  id="option-3"
-                  role="presentation"
-                >
-                  <button
-                    class="pf-c-select__menu-item"
-                    role="option"
-                    type="button"
-                  >
-                    Ms
-                  </button>
-                </li>
                 <li
                   class="pf-c-select__menu-wrapper"
                   id="option-4"
@@ -12885,149 +12748,6 @@ exports[`typeahead select test select existing option on a non-creatable select 
             className="pf-c-select__menu"
             role="listbox"
           >
-            <SelectOption
-              className=""
-              component="button"
-              id="option-1"
-              index={0}
-              inputId="pf-random-id-18-0"
-              isChecked={false}
-              isDisabled={false}
-              isFavorite={null}
-              isFocused={null}
-              isLoad={false}
-              isLoading={false}
-              isNoResultsOption={false}
-              isPlaceholder={false}
-              isSelected={true}
-              key=".$.$00"
-              keyHandler={[Function]}
-              onClick={[Function]}
-              sendRef={[Function]}
-              value="Mr"
-            >
-              <li
-                className="pf-c-select__menu-wrapper"
-                id="option-1"
-                role="presentation"
-              >
-                <button
-                  aria-selected={true}
-                  className="pf-c-select__menu-item pf-m-selected"
-                  onClick={[Function]}
-                  onKeyDown={[Function]}
-                  role="option"
-                  type="button"
-                >
-                  Mr
-                  <span
-                    className="pf-c-select__menu-item-icon"
-                  >
-                    <CheckIcon
-                      aria-hidden={true}
-                      color="currentColor"
-                      noVerticalAlign={false}
-                      size="sm"
-                    >
-                      <svg
-                        aria-hidden={true}
-                        aria-labelledby={null}
-                        fill="currentColor"
-                        height="1em"
-                        role="img"
-                        style={
-                          Object {
-                            "verticalAlign": "-0.125em",
-                          }
-                        }
-                        viewBox="0 0 512 512"
-                        width="1em"
-                      >
-                        <path
-                          d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
-                        />
-                      </svg>
-                    </CheckIcon>
-                  </span>
-                </button>
-              </li>
-            </SelectOption>
-            <SelectOption
-              className=""
-              component="button"
-              id="option-2"
-              index={1}
-              inputId="pf-random-id-18-1"
-              isChecked={false}
-              isDisabled={false}
-              isFavorite={null}
-              isFocused={null}
-              isLoad={false}
-              isLoading={false}
-              isNoResultsOption={false}
-              isPlaceholder={false}
-              isSelected={false}
-              key=".$.$01"
-              keyHandler={[Function]}
-              onClick={[Function]}
-              sendRef={[Function]}
-              value="Mrs"
-            >
-              <li
-                className="pf-c-select__menu-wrapper"
-                id="option-2"
-                role="presentation"
-              >
-                <button
-                  aria-selected={null}
-                  className="pf-c-select__menu-item"
-                  onClick={[Function]}
-                  onKeyDown={[Function]}
-                  role="option"
-                  type="button"
-                >
-                  Mrs
-                </button>
-              </li>
-            </SelectOption>
-            <SelectOption
-              className=""
-              component="button"
-              id="option-3"
-              index={2}
-              inputId="pf-random-id-18-2"
-              isChecked={false}
-              isDisabled={false}
-              isFavorite={null}
-              isFocused={null}
-              isLoad={false}
-              isLoading={false}
-              isNoResultsOption={false}
-              isPlaceholder={false}
-              isSelected={false}
-              key=".$.$02"
-              keyHandler={[Function]}
-              onClick={[Function]}
-              sendRef={[Function]}
-              value="Ms"
-            >
-              <li
-                className="pf-c-select__menu-wrapper"
-                id="option-3"
-                role="presentation"
-              >
-                <button
-                  aria-selected={null}
-                  className="pf-c-select__menu-item"
-                  onClick={[Function]}
-                  onKeyDown={[Function]}
-                  role="option"
-                  type="button"
-                >
-                  Ms
-                </button>
-              </li>
-            </SelectOption>
             <SelectOption
               className=""
               component="button"
